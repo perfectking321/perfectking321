@@ -27,8 +27,9 @@ jobs:
       - name: Run Python Script
         run: python update_quote.py
 
-      - name: Pull Latest Changes
-        run: git pull origin main
+      - name: Pull Latest Changes with Rebase
+        run: git pull --rebase origin main
+
 
       - name: Commit and Push Changes
         run: |
