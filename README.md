@@ -26,6 +26,6 @@ Welcome to my GitHub!
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
   <a href="https://yourcustomlink.com" target="_blank">
-    <img src="https://img.shields.io/badge/Perfect.-6A5ACD?style=for-the-badge&logoColor=white" alt="Perfect.">
+    <img src="https://img.shields.io/badge/Perfect.-6A5ACD?style=for-the-badge&logoColor=blue" alt="Perfect.">
   </a>
 </div>
