@@ -9,12 +9,15 @@ jobs:
   update-readme:
     name: Update Quote in README
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v3
         with:
-          fetch-depth: 0 # Fetch full history for pulling changes
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0 # Fetch full history
 
       - name: Set Up Python
         uses: actions/setup-python@v4
@@ -24,18 +27,24 @@ jobs:
       - name: Install Dependencies
         run: pip install requests
 
-      - name: Run Python Script
-        run: python update_quote.py
-
-      - name: Pull Latest Changes with Rebase
-        run: git pull --rebase origin main
-
-      - name: Commit and Push Changes
-        env:
-          GITHUB_TOKEN: ${{ secrets.PAT }}
+      - name: Configure Git
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+      - name: Pull Latest Changes
+        run: git pull origin main --rebase
+
+      - name: Run Python Script
+        run: python update_quote.py
+
+      - name: Commit Changes
+        run: |
           git add README.md
-          git commit -m "Update Quote of the Day"
-          git push https://perfectking321:${{ secrets.PAT }}@github.com/perfectking321/perfectking321.git
+          git commit -m "Update Quote of the Day" || echo "No changes to commit"
+
+      - name: Push Changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
