@@ -75,12 +75,8 @@
 
 ---
 
-## ✍️ **Quote of the Day**
+## ✍️ Quote of the Day
 
-<div align="center">
-  <blockquote>
-    <h2 style="color: #FFA500;">🌟 <strong>“<!--STARTS_HERE_QUOTE_README-->Your daily quote will appear here<!--ENDS_HERE_QUOTE_README-->”</strong></h2>
-    <p style="font-style: italic;">– Your Quote Source</p>
-  </blockquote>
-</div>
+<!--STARTS_HERE_QUOTE_README-->
+<!--ENDS_HERE_QUOTE_README-->
 
