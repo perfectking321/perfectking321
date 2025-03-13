@@ -78,5 +78,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
+“All you need is passion. If you have a passion for something, you'll create the talent.” – Yanni
 <!--ENDS_HERE_QUOTE_README-->
 
