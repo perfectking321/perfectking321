@@ -29,3 +29,11 @@ Welcome to my GitHub!
     <img src="https://img.shields.io/badge/Perfect.-6A5ACD?style=for-the-badge&logoColor=blue" alt="Perfect.">
   </a>
 </div>
+
+## 💻 Tech Stack
+
+### Most Used Languages
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark&langs_count=6" alt="Most Used Languages" />
+</div>
