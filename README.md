@@ -59,3 +59,9 @@ Welcome to my GitHub!
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Perplexity](https://img.shields.io/badge/Perplexity-000000?style=for-the-badge&logo=openai&logoColor=white)
 ---
+
+## 🏆 GitHub Trophy
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=perfectking321&theme=darkhub&no-frame=true&column=7" alt="GitHub Trophy" />
+</div>
