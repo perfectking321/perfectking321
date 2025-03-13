@@ -78,6 +78,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“A day without laughter is a day wasted.” – Charlie Chaplin
+“Tenderness and kindness are not signs of weakness and despair, but manifestations of strength and resolution.” – Kahlil Gibran
 <!--ENDS_HERE_QUOTE_README-->
 
