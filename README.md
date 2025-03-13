@@ -75,9 +75,12 @@
 
 ---
 
-## ✍️ Quote of the Day
+## ✍️ **Quote of the Day**
 
-<!--STARTS_HERE_QUOTE_README-->
-“All you need is passion. If you have a passion for something, you'll create the talent.” – Yanni
-<!--ENDS_HERE_QUOTE_README-->
+<div align="center">
+  <blockquote>
+    <h2 style="color: #FFA500;">🌟 <strong>“<!--STARTS_HERE_QUOTE_README-->Your daily quote will appear here<!--ENDS_HERE_QUOTE_README-->”</strong></h2>
+    <p style="font-style: italic;">– Your Quote Source</p>
+  </blockquote>
+</div>
 
