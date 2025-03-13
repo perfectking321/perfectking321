@@ -1,0 +1,3 @@
+# Hide implementation files but keep functionality
+update_quote.py
+.github/workflows/
