@@ -34,6 +34,6 @@ Welcome to my GitHub!
 
 ### Most Used Languages
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=perfectking321&layout=compact&theme=dark&langs_count=6" alt="Most Used Languages" />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=perfectking321&layout=compact&theme=transparent&hide_border=true" alt="Most Used Languages" />
 </div>
