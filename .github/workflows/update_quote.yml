@@ -13,6 +13,8 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 0 # Fetch full history for pulling changes
 
       - name: Set Up Python
         uses: actions/setup-python@v4
@@ -25,10 +27,13 @@ jobs:
       - name: Run Python Script
         run: python update_quote.py
 
+      - name: Pull Latest Changes
+        run: git pull origin main
+
       - name: Commit and Push Changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
           git commit -m "Update Quote of the Day"
-          git push
+          git push origin main
