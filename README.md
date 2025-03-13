@@ -78,5 +78,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
+“A day without laughter is a day wasted.” – Charlie Chaplin
 <!--ENDS_HERE_QUOTE_README-->
 
