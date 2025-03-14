@@ -78,6 +78,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Tenderness and kindness are not signs of weakness and despair, but manifestations of strength and resolution.” – Kahlil Gibran
+“Only he who has no use for the empire is fit to be entrusted with it.” – Zhuangzi
 <!--ENDS_HERE_QUOTE_README-->
 
