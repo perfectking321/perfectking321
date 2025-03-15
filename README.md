@@ -78,6 +78,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Only he who has no use for the empire is fit to be entrusted with it.” – Zhuangzi
+“Man is affected not by events but by the view he takes of them.  ” – Seneca
 <!--ENDS_HERE_QUOTE_README-->
 
