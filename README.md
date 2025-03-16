@@ -78,6 +78,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Man is affected not by events but by the view he takes of them.  ” – Seneca
+“It isn't what you do, but how you do it.” – John Wooden
 <!--ENDS_HERE_QUOTE_README-->
 
