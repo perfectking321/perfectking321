@@ -78,6 +78,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“It isn't what you do, but how you do it.” – John Wooden
+“Beauty is not in the face; beauty is a light in the heart.” – Kahlil Gibran
 <!--ENDS_HERE_QUOTE_README-->
 
