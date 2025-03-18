@@ -78,6 +78,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Beauty is not in the face; beauty is a light in the heart.” – Kahlil Gibran
+“There is no way to happiness - happiness is the way.” – Thich Nhat Hanh
 <!--ENDS_HERE_QUOTE_README-->
 
