@@ -78,6 +78,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“There is no way to happiness - happiness is the way.” – Thich Nhat Hanh
+“An intelligent person hires people who are more intelligent than he is.” – Robert Kiyosaki
 <!--ENDS_HERE_QUOTE_README-->
 
