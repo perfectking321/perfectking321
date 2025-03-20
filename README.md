@@ -78,6 +78,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“An intelligent person hires people who are more intelligent than he is.” – Robert Kiyosaki
+“If you correct your mind, the rest of your life will fall into place.” – Lao Tzu
 <!--ENDS_HERE_QUOTE_README-->
 
