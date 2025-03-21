@@ -78,6 +78,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“If you correct your mind, the rest of your life will fall into place.” – Lao Tzu
+“If you are unable to find the truth right where you are, where else do you expect to find it?” – Dogen
 <!--ENDS_HERE_QUOTE_README-->
 
