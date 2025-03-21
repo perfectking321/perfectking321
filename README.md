@@ -20,7 +20,7 @@
 - 📚 Learning **Java**, **Flask**, and diving deep into **Machine Learning**
 - 🎮 When I'm not coding: Gaming enthusiast, Music producer, and Singer
 - 💡 Philosophy: Turning coffee into code and ideas into reality
-- 🎯 2024 Goals: Contribute more to Open Source projects
+- 🎯 2025 Goals: Contribute more to Open Source projects
 
 ## 🛠️ Tech Stack
 
