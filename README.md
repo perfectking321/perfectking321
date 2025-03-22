@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“If you are unable to find the truth right where you are, where else do you expect to find it?” – Dogen
+“Resilience is not what happens to you. It's how you react to, respond to, and recover from what happens to you.” – Jeffrey Gitomer
 <!--ENDS_HERE_QUOTE_README-->
 
