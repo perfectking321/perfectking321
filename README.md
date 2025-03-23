@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Resilience is not what happens to you. It's how you react to, respond to, and recover from what happens to you.” – Jeffrey Gitomer
+“Kindness is a language which the deaf can hear and the blind can see.” – Mark Twain
 <!--ENDS_HERE_QUOTE_README-->
 
