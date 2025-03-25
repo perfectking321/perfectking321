@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“A mountain never yields to the wind no matter how strong it is.” – Zen Proverb
+“It's the job that's never started that takes the longest to finish.” – J.R.R. Tolkien
 <!--ENDS_HERE_QUOTE_README-->
 
