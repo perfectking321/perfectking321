@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“It's the job that's never started that takes the longest to finish.” – J.R.R. Tolkien
+“It's better to dance than to march through life.” – Yoko Ono
 <!--ENDS_HERE_QUOTE_README-->
 
