@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“It's better to dance than to march through life.” – Yoko Ono
+“Death walks faster than the wind and never returns what he has taken.” – Hans Christian Andersen
 <!--ENDS_HERE_QUOTE_README-->
 
