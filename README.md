@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Death walks faster than the wind and never returns what he has taken.” – Hans Christian Andersen
+“Fear is a natural reaction to moving closer to the truth.” – Pema Chodron
 <!--ENDS_HERE_QUOTE_README-->
 
