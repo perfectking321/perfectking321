@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Fear is a natural reaction to moving closer to the truth.” – Pema Chodron
+“Dreams are the royal road to the unconscious. ” – Sigmund Freud
 <!--ENDS_HERE_QUOTE_README-->
 
