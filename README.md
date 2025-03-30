@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Dreams are the royal road to the unconscious. ” – Sigmund Freud
+“There is no value in anything until it is finished. ” – Genghis Khan
 <!--ENDS_HERE_QUOTE_README-->
 
