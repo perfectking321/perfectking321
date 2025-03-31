@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“There is no value in anything until it is finished. ” – Genghis Khan
+“Arise, slay thy enemies, enjoy a prosperous kingdom.” – Bhagavad Gita
 <!--ENDS_HERE_QUOTE_README-->
 
