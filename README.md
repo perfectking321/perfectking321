@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Life is filled with secrets. You can't learn them all at once.” – Dan Brown
+“Choose a job you love, and you will never have to work a day in your life. ” – Confucius
 <!--ENDS_HERE_QUOTE_README-->
 
