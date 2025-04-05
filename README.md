@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Choose a job you love, and you will never have to work a day in your life. ” – Confucius
+“When you are content to be simply yourself and don't compare or compete, everybody will respect you. ” – Lao Tzu
 <!--ENDS_HERE_QUOTE_README-->
 
