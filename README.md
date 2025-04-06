@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“When you are content to be simply yourself and don't compare or compete, everybody will respect you. ” – Lao Tzu
+“Sometimes good things fall apart so better things can fall together.” – Marilyn Monroe
 <!--ENDS_HERE_QUOTE_README-->
 
