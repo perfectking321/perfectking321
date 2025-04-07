@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Sometimes good things fall apart so better things can fall together.” – Marilyn Monroe
+“How many times do you have to get hit over the head until you figure out who's hitting you?” – Harry S. Truman
 <!--ENDS_HERE_QUOTE_README-->
 
