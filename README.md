@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“How many times do you have to get hit over the head until you figure out who's hitting you?” – Harry S. Truman
+“Truth is not something outside to be discovered, it is something inside to be realized.” – Osho
 <!--ENDS_HERE_QUOTE_README-->
 
