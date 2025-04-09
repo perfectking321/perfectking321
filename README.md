@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Truth is not something outside to be discovered, it is something inside to be realized.” – Osho
+“I am not the outcome. I am never the result. I am only the effort.” – Kamal Ravikant
 <!--ENDS_HERE_QUOTE_README-->
 
