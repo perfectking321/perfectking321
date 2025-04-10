@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“I am not the outcome. I am never the result. I am only the effort.” – Kamal Ravikant
+“Perplexity is the beginning of knowledge.” – Kahlil Gibran
 <!--ENDS_HERE_QUOTE_README-->
 
