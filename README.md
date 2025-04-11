@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Perplexity is the beginning of knowledge.” – Kahlil Gibran
+“Don't let the noise of others opinions drown out your inner voice.” – Steve Jobs
 <!--ENDS_HERE_QUOTE_README-->
 
