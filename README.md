@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Don't let the noise of others opinions drown out your inner voice.” – Steve Jobs
+“Every great change is preceded by chaos.” – Deepak Chopra
 <!--ENDS_HERE_QUOTE_README-->
 
