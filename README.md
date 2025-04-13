@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Every great change is preceded by chaos.” – Deepak Chopra
+“The power of man has grown in every sphere, except over himself.” – Winston Churchill
 <!--ENDS_HERE_QUOTE_README-->
 
