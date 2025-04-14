@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“The power of man has grown in every sphere, except over himself.” – Winston Churchill
+“He who cheats the earth will be cheated by the earth.” – Chinese Proverb
 <!--ENDS_HERE_QUOTE_README-->
 
