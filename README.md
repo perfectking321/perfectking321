@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“He who cheats the earth will be cheated by the earth.” – Chinese Proverb
+“Let each man exercise the art he knows.” – Aristophanes
 <!--ENDS_HERE_QUOTE_README-->
 
