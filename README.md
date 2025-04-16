@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Let each man exercise the art he knows.” – Aristophanes
+“Change is hard at first, messy in the middle and gorgeous at the end.” – Robin Sharma
 <!--ENDS_HERE_QUOTE_README-->
 
