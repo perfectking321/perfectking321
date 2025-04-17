@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Change is hard at first, messy in the middle and gorgeous at the end.” – Robin Sharma
+“I would rather be a little nobody, then to be an evil somebody.” – Abraham Lincoln
 <!--ENDS_HERE_QUOTE_README-->
 
