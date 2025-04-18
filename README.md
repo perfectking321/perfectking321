@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“I would rather be a little nobody, then to be an evil somebody.” – Abraham Lincoln
+“Those who look for the bad in people will surely find it.” – Abraham Lincoln
 <!--ENDS_HERE_QUOTE_README-->
 
