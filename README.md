@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Those who look for the bad in people will surely find it.” – Abraham Lincoln
+“You are free, and that is why you are lost.” – Franz Kafka
 <!--ENDS_HERE_QUOTE_README-->
 
