@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“You are free, and that is why you are lost.” – Franz Kafka
+“It ain't where you start in life, it's where you end up, and what you did along the way.” – Colin Powell
 <!--ENDS_HERE_QUOTE_README-->
 
