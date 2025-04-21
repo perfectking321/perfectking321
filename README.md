@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“It ain't where you start in life, it's where you end up, and what you did along the way.” – Colin Powell
+“We have to live life with a sense of urgency so not a minute is wasted.” – Les Brown
 <!--ENDS_HERE_QUOTE_README-->
 
