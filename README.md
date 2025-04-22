@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“We have to live life with a sense of urgency so not a minute is wasted.” – Les Brown
+“If you want to be happy, set a goal that commands your thoughts, liberates your energy, and inspires your hopes.” – Andrew Carnegie
 <!--ENDS_HERE_QUOTE_README-->
 
