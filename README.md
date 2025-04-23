@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“If you want to be happy, set a goal that commands your thoughts, liberates your energy, and inspires your hopes.” – Andrew Carnegie
+“Simplicity is the glory of expression.” – Walt Whitman
 <!--ENDS_HERE_QUOTE_README-->
 
