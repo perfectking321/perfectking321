@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Simplicity is the glory of expression.” – Walt Whitman
+“To travel is to be alive, but to get somewhere is to be dead.” – Alan Watts
 <!--ENDS_HERE_QUOTE_README-->
 
