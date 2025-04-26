@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“To be able to forget means sanity.” – Jack London
+“Great ones are willing to get burned time and again as they sharpen their swords in the fire.” – Josh Waitzkin
 <!--ENDS_HERE_QUOTE_README-->
 
