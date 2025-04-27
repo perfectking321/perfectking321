@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Great ones are willing to get burned time and again as they sharpen their swords in the fire.” – Josh Waitzkin
+“Definitions belong to the definers, not the defined.” – Toni Morrison
 <!--ENDS_HERE_QUOTE_README-->
 
