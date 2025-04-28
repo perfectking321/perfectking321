@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Definitions belong to the definers, not the defined.” – Toni Morrison
+“Life is trying things to see if they work.” – Ray Bradbury
 <!--ENDS_HERE_QUOTE_README-->
 
