@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“The most important thing in life is to stop saying 'I wish' and start saying 'I will'. Consider nothing impossible, then treat possibilities as probabilities.” – Charles Dickens
+“Every moment is a fresh beginning.” – T.S. Eliot
 <!--ENDS_HERE_QUOTE_README-->
 
