@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Every moment is a fresh beginning.” – T.S. Eliot
+“The biggest room in the world is the room for improvement.” – Unknown
 <!--ENDS_HERE_QUOTE_README-->
 
