@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“The biggest room in the world is the room for improvement.” – Unknown
+“Enjoy every minute of life. Never second-guess life.” – Michael Jordan
 <!--ENDS_HERE_QUOTE_README-->
 
