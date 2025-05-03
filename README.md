@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Enjoy every minute of life. Never second-guess life.” – Michael Jordan
+“To avoid criticism, do nothing, say nothing, and be nothing.” – Elbert Hubbard
 <!--ENDS_HERE_QUOTE_README-->
 
