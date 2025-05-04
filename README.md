@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“To avoid criticism, do nothing, say nothing, and be nothing.” – Elbert Hubbard
+“Our greatest glory is not in never falling but in rising every time we fall.” – Confucius
 <!--ENDS_HERE_QUOTE_README-->
 
