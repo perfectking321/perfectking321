@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Our greatest glory is not in never falling but in rising every time we fall.” – Confucius
+“Alone we can do so little; together we can do so much.” – Helen Keller
 <!--ENDS_HERE_QUOTE_README-->
 
