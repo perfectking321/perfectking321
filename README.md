@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Alone we can do so little; together we can do so much.” – Helen Keller
+“We live only now. Everything else is either passed or is unknown.” – Marcus Aurelius
 <!--ENDS_HERE_QUOTE_README-->
 
