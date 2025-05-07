@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“We live only now. Everything else is either passed or is unknown.” – Marcus Aurelius
+“Anyone who reads a book with a sense of obligation does not understand the art of reading.” – Lin Yutang
 <!--ENDS_HERE_QUOTE_README-->
 
