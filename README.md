@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Anyone who reads a book with a sense of obligation does not understand the art of reading.” – Lin Yutang
+“Respect is earned by effort not age, all things age without effort.” – C. Sean McGee
 <!--ENDS_HERE_QUOTE_README-->
 
