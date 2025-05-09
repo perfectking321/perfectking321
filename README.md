@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Respect is earned by effort not age, all things age without effort.” – C. Sean McGee
+“Don't try to be young. Just open your mind. Stay interested in stuff.” – Betty White
 <!--ENDS_HERE_QUOTE_README-->
 
