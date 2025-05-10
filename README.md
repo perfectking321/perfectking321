@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Don't try to be young. Just open your mind. Stay interested in stuff.” – Betty White
+“Opportunity is missed by most people because it is dressed in overalls and looks like work.” – Thomas Edison
 <!--ENDS_HERE_QUOTE_README-->
 
