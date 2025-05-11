@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Opportunity is missed by most people because it is dressed in overalls and looks like work.” – Thomas Edison
+“Art, like morality, consists of drawing the line somewhere.” – Gilbert Chesterton
 <!--ENDS_HERE_QUOTE_README-->
 
