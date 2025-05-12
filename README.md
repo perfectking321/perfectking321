@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Art, like morality, consists of drawing the line somewhere.” – Gilbert Chesterton
+“Life may be full of pain but that's not an excuse to give up.” – Arnold Schwarzenegger
 <!--ENDS_HERE_QUOTE_README-->
 
