@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Life may be full of pain but that's not an excuse to give up.” – Arnold Schwarzenegger
+“Sometimes it is harder to deprive oneself of a pain than of a pleasure.” – F. Scott Fitzgerald
 <!--ENDS_HERE_QUOTE_README-->
 
