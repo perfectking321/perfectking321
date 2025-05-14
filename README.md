@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Sometimes it is harder to deprive oneself of a pain than of a pleasure.” – F. Scott Fitzgerald
+“You need to be doing fewer things for more effect instead of doing more things with side effects.” – Gary Keller
 <!--ENDS_HERE_QUOTE_README-->
 
