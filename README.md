@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“You need to be doing fewer things for more effect instead of doing more things with side effects.” – Gary Keller
+“It's your road, and yours alone, others may walk it with you, but no one can walk it for you.” – Rumi
 <!--ENDS_HERE_QUOTE_README-->
 
