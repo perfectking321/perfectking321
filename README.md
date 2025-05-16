@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“It's your road, and yours alone, others may walk it with you, but no one can walk it for you.” – Rumi
+“You don't need a weatherman to know which way the wind blows.” – Bob Dylan
 <!--ENDS_HERE_QUOTE_README-->
 
