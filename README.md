@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“You don't need a weatherman to know which way the wind blows.” – Bob Dylan
+“There are more people who wish to be loved than there are who are willing to love. ” – Nicolas Chamfort
 <!--ENDS_HERE_QUOTE_README-->
 
