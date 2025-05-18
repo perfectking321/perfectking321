@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“There are more people who wish to be loved than there are who are willing to love. ” – Nicolas Chamfort
+“Life is really simple, but men insist on making it complicated. ” – Confucius
 <!--ENDS_HERE_QUOTE_README-->
 
