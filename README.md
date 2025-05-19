@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Life is really simple, but men insist on making it complicated. ” – Confucius
+“Never feel shame for trying and failing, for he who has never failed is he who has never tried.” – Og Mandino
 <!--ENDS_HERE_QUOTE_README-->
 
