@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Never feel shame for trying and failing, for he who has never failed is he who has never tried.” – Og Mandino
+“Don't stumble over something that's behind you.” – Steve Harvey
 <!--ENDS_HERE_QUOTE_README-->
 
