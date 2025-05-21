@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Don't stumble over something that's behind you.” – Steve Harvey
+“All human beings can alter their lives by altering their attitudes.” – Andrew Carnegie
 <!--ENDS_HERE_QUOTE_README-->
 
