@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“All human beings can alter their lives by altering their attitudes.” – Andrew Carnegie
+“No one can hurt you without your consent.” – Eleanor Roosevelt
 <!--ENDS_HERE_QUOTE_README-->
 
