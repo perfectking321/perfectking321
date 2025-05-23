@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“No one can hurt you without your consent.” – Eleanor Roosevelt
+“There's more to life than being a passenger.” – Amelia Earhart
 <!--ENDS_HERE_QUOTE_README-->
 
