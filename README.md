@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“He who can no longer pause to wonder and stand rapt in awe, is as good as dead; his eyes are closed. ” – Albert Einstein
+“If you chase two rabbits, you catch none.” – Confucius
 <!--ENDS_HERE_QUOTE_README-->
 
