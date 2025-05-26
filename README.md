@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“If you chase two rabbits, you catch none.” – Confucius
+“The future is no more uncertain than the present.” – Walt Whitman
 <!--ENDS_HERE_QUOTE_README-->
 
