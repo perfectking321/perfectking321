@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“The future is no more uncertain than the present.” – Walt Whitman
+“Imagination is everything. It is the preview of life's coming attractions.” – Albert Einstein
 <!--ENDS_HERE_QUOTE_README-->
 
