@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Imagination is everything. It is the preview of life's coming attractions.” – Albert Einstein
+“People don't care how much you know until they know how much you care.” – Theodore Roosevelt
 <!--ENDS_HERE_QUOTE_README-->
 
