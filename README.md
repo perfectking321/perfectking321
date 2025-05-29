@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“People don't care how much you know until they know how much you care.” – Theodore Roosevelt
+“People are not disturbed by things, but by the views they take of them.” – Epictetus
 <!--ENDS_HERE_QUOTE_README-->
 
