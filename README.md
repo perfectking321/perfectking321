@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“People are not disturbed by things, but by the views they take of them.” – Epictetus
+“No man is happy unless he believes he is.” – Publilius Syrus
 <!--ENDS_HERE_QUOTE_README-->
 
