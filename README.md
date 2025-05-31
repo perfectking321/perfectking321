@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“No man is happy unless he believes he is.” – Publilius Syrus
+“Time is a game played beautifully by children.” – Heraclitus
 <!--ENDS_HERE_QUOTE_README-->
 
