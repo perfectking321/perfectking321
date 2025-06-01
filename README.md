@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Time is a game played beautifully by children.” – Heraclitus
+“I learned the value of hard work by working hard. ” – Margaret Mead
 <!--ENDS_HERE_QUOTE_README-->
 
