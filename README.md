@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“I learned the value of hard work by working hard. ” – Margaret Mead
+“The universe doesn't give you what you ask for with your thoughts - it gives you what you demand with your actions.” – Steve Maraboli
 <!--ENDS_HERE_QUOTE_README-->
 
