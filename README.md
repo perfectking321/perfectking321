@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“The universe doesn't give you what you ask for with your thoughts - it gives you what you demand with your actions.” – Steve Maraboli
+“The important thing is not to stop questioning. Curiosity has its own reason for existing.” – Albert Einstein
 <!--ENDS_HERE_QUOTE_README-->
 
