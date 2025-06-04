@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“The important thing is not to stop questioning. Curiosity has its own reason for existing.” – Albert Einstein
+“The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart.” – Helen Keller
 <!--ENDS_HERE_QUOTE_README-->
 
