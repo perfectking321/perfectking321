@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart.” – Helen Keller
+“Life's too mysterious to take too serious.” – Mary Engelbreit
 <!--ENDS_HERE_QUOTE_README-->
 
