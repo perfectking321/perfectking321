@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Life's too mysterious to take too serious.” – Mary Engelbreit
+“Though no one can go back and make a brand new start, anyone can start from now and make a brand new ending.” – Carl Bard
 <!--ENDS_HERE_QUOTE_README-->
 
