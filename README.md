@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Though no one can go back and make a brand new start, anyone can start from now and make a brand new ending.” – Carl Bard
+“If you think you can do a thing or think you can't do a thing, you're right.” – Henry Ford
 <!--ENDS_HERE_QUOTE_README-->
 
