@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“If you think you can do a thing or think you can't do a thing, you're right.” – Henry Ford
+“The wiser you get, the less you care to look like a fool.” – Maxime Lagace
 <!--ENDS_HERE_QUOTE_README-->
 
