@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“The wiser you get, the less you care to look like a fool.” – Maxime Lagace
+“My powers are ordinary. Only my application brings me success.” – Isaac Newton
 <!--ENDS_HERE_QUOTE_README-->
 
