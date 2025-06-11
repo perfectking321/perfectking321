@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“The universe doesn't give you what you ask for with your thoughts - it gives you what you demand with your actions.” – Steve Maraboli
+“As you think, you travel, and as you love, you attract.” – James Allen
 <!--ENDS_HERE_QUOTE_README-->
 
