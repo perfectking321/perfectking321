@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“As you think, you travel, and as you love, you attract.” – James Allen
+“I learned the value of hard work by working hard. ” – Margaret Mead
 <!--ENDS_HERE_QUOTE_README-->
 
