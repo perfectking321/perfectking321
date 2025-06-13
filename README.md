@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“I learned the value of hard work by working hard. ” – Margaret Mead
+“Where your talents and the needs of the world cross, there lies your vocation.” – Aristotle
 <!--ENDS_HERE_QUOTE_README-->
 
