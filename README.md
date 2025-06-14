@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Where your talents and the needs of the world cross, there lies your vocation.” – Aristotle
+“In order to carry a positive action, we must develop here a positive vision.” – Dalai Lama
 <!--ENDS_HERE_QUOTE_README-->
 
