@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“In order to carry a positive action, we must develop here a positive vision.” – Dalai Lama
+“If you're afraid - don't do it, - if you're doing it - don't be afraid! ” – Genghis Khan
 <!--ENDS_HERE_QUOTE_README-->
 
