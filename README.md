@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“If you're afraid - don't do it, - if you're doing it - don't be afraid! ” – Genghis Khan
+“Riches don't make a man rich, they only make him busier.” – Christopher Columbus
 <!--ENDS_HERE_QUOTE_README-->
 
