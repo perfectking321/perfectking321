@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Riches don't make a man rich, they only make him busier.” – Christopher Columbus
+“Knowledge isn't power until it is applied.” – Dale Carnegie
 <!--ENDS_HERE_QUOTE_README-->
 
