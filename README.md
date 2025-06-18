@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Knowledge isn't power until it is applied.” – Dale Carnegie
+“Numbing the pain for a while will make it worse when you finally feel it.” – Albus Dumbledore
 <!--ENDS_HERE_QUOTE_README-->
 
