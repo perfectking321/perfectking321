@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Numbing the pain for a while will make it worse when you finally feel it.” – Albus Dumbledore
+“We build too many walls and not enough bridges.” – Isaac Newton
 <!--ENDS_HERE_QUOTE_README-->
 
