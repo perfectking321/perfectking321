@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“We build too many walls and not enough bridges.” – Isaac Newton
+“As mortals, we're ruled by conditions, not by ourselves.” – Bodhidharma
 <!--ENDS_HERE_QUOTE_README-->
 
