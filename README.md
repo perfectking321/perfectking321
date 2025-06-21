@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“As mortals, we're ruled by conditions, not by ourselves.” – Bodhidharma
+“Throw your heart over the bar and your body will follow.” – Norman Vincent Peale
 <!--ENDS_HERE_QUOTE_README-->
 
