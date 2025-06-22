@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Throw your heart over the bar and your body will follow.” – Norman Vincent Peale
+“The sculptor produces the beautiful statue by chipping away such parts of the marble block as are not needed - it is a process of elimination.” – Elbert Hubbard
 <!--ENDS_HERE_QUOTE_README-->
 
