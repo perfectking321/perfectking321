@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“The sculptor produces the beautiful statue by chipping away such parts of the marble block as are not needed - it is a process of elimination.” – Elbert Hubbard
+“Discipline yourself, and others won't need to.” – John Wooden
 <!--ENDS_HERE_QUOTE_README-->
 
