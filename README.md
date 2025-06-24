@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Discipline yourself, and others won't need to.” – John Wooden
+“Life is a gift. Never forget to enjoy and bask in every moment you are in.” – Celestine Chua
 <!--ENDS_HERE_QUOTE_README-->
 
