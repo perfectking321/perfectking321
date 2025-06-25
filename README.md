@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Life is a gift. Never forget to enjoy and bask in every moment you are in.” – Celestine Chua
+“To share your weakness is to make yourself vulnerable; to make yourself vulnerable is to show your strength.” – Criss Jami
 <!--ENDS_HERE_QUOTE_README-->
 
