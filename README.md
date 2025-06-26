@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“To share your weakness is to make yourself vulnerable; to make yourself vulnerable is to show your strength.” – Criss Jami
+“Stop being a prisoner of your past. Become the architect of your future.” – Robin Sharma
 <!--ENDS_HERE_QUOTE_README-->
 
