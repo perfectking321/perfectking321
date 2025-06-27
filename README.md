@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Stop being a prisoner of your past. Become the architect of your future.” – Robin Sharma
+“The more rejection you get, the better you are, the more you've learned, the closer you are to your outcome.” – Tony Robbins
 <!--ENDS_HERE_QUOTE_README-->
 
