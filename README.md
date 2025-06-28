@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“The more rejection you get, the better you are, the more you've learned, the closer you are to your outcome.” – Tony Robbins
+“The businessman's tool is value.” – Ayn Rand
 <!--ENDS_HERE_QUOTE_README-->
 
