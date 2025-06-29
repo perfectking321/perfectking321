@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“The businessman's tool is value.” – Ayn Rand
+“The first principle of success is desire.” – Robert Collier
 <!--ENDS_HERE_QUOTE_README-->
 
