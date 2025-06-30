@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“The first principle of success is desire.” – Robert Collier
+“If you change the way you look at things, the things you look at change. ” – Wayne Dyer
 <!--ENDS_HERE_QUOTE_README-->
 
