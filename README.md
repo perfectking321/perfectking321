@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“If you change the way you look at things, the things you look at change. ” – Wayne Dyer
+“We know nothing of tomorrow, our business is to be good and happy today.” – Sydney Smith
 <!--ENDS_HERE_QUOTE_README-->
 
