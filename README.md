@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“We know nothing of tomorrow, our business is to be good and happy today.” – Sydney Smith
+“It is only depth of character that determines the profundity with which we face life.” – Ming-Dao Deng
 <!--ENDS_HERE_QUOTE_README-->
 
