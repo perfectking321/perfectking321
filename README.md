@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“It is only depth of character that determines the profundity with which we face life.” – Ming-Dao Deng
+“Less is more.” – Robert Browning
 <!--ENDS_HERE_QUOTE_README-->
 
