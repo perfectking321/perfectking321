@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Less is more.” – Robert Browning
+“Go for it now. The future is promised to no one. ” – Wayne Dyer
 <!--ENDS_HERE_QUOTE_README-->
 
