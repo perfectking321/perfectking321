@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Go for it now. The future is promised to no one. ” – Wayne Dyer
+“Selfishness and greed, individual or national, cause most of our troubles.” – Harry S. Truman
 <!--ENDS_HERE_QUOTE_README-->
 
