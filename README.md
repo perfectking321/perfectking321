@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Selfishness and greed, individual or national, cause most of our troubles.” – Harry S. Truman
+“Nothing is really work unless you would rather be doing something else. ” – James Matthew Barrie
 <!--ENDS_HERE_QUOTE_README-->
 
