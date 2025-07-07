@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Nothing is really work unless you would rather be doing something else. ” – James Matthew Barrie
+“Passion creates, addiction consumes.” – Gabor Mate
 <!--ENDS_HERE_QUOTE_README-->
 
