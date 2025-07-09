@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Help others achieve their dreams and you will achieve yours.” – Les Brown
+“Life happens in the river, not the shore.” – Maxime Lagace
 <!--ENDS_HERE_QUOTE_README-->
 
