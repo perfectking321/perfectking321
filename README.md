@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Life happens in the river, not the shore.” – Maxime Lagace
+“Success is not what you do when you are on top.  Success is how high you bounce when you hit the bottom.” – Sonia Ricotti
 <!--ENDS_HERE_QUOTE_README-->
 
