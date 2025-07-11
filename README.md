@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Success is not what you do when you are on top.  Success is how high you bounce when you hit the bottom.” – Sonia Ricotti
+“True friendship ought never to conceal what it thinks. ” – St. Jerome
 <!--ENDS_HERE_QUOTE_README-->
 
