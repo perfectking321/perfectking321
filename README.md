@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“True friendship ought never to conceal what it thinks. ” – St. Jerome
+“What the mind can conceive and believe, and the heart desire, you can achieve.” – Norman Vincent Peale
 <!--ENDS_HERE_QUOTE_README-->
 
