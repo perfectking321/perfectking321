@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Fashion fades, only style remains the same.” – Coco Chanel
+“Love doesn't need reason. It speaks from the irrational wisdom of the heart.” – Deepak Chopra
 <!--ENDS_HERE_QUOTE_README-->
 
