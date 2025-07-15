@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Love doesn't need reason. It speaks from the irrational wisdom of the heart.” – Deepak Chopra
+“It doesn't matter how slow you go, as long as you don't stop.” – Confucius
 <!--ENDS_HERE_QUOTE_README-->
 
