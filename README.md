@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“It doesn't matter how slow you go, as long as you don't stop.” – Confucius
+“Sorrow is how we learn to love.” – Rita Mae Brown
 <!--ENDS_HERE_QUOTE_README-->
 
