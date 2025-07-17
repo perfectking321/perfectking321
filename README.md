@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Sorrow is how we learn to love.” – Rita Mae Brown
+“When I let go of what I am, I become what I might be.” – Lao Tzu
 <!--ENDS_HERE_QUOTE_README-->
 
