@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“When I let go of what I am, I become what I might be.” – Lao Tzu
+“Animals don't hate, and we're supposed to be better than them.” – Elvis Presley
 <!--ENDS_HERE_QUOTE_README-->
 
