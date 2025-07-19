@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Animals don't hate, and we're supposed to be better than them.” – Elvis Presley
+“When people are free to do as they please, they usually imitate each other.” – Eric Hoffer
 <!--ENDS_HERE_QUOTE_README-->
 
