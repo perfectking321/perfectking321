@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“When people are free to do as they please, they usually imitate each other.” – Eric Hoffer
+“Time goes from present to past.” – Shunryu Suzuki
 <!--ENDS_HERE_QUOTE_README-->
 
