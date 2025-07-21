@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Time goes from present to past.” – Shunryu Suzuki
+“The more we value things, the less we value ourselves.  ” – Bruce Lee
 <!--ENDS_HERE_QUOTE_README-->
 
