@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“The more we value things, the less we value ourselves.  ” – Bruce Lee
+“For every minute you are angry you lose sixty seconds of happiness.” – Ralph Waldo Emerson
 <!--ENDS_HERE_QUOTE_README-->
 
