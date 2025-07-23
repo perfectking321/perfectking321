@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“For every minute you are angry you lose sixty seconds of happiness.” – Ralph Waldo Emerson
+“This is the most simple and basic component of life: our struggles determine our successes.” – Mark Manson
 <!--ENDS_HERE_QUOTE_README-->
 
