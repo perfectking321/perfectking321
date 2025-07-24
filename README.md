@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“This is the most simple and basic component of life: our struggles determine our successes.” – Mark Manson
+“Others can stop you temporarily - you are the only one who can do it permanently.” – Zig Ziglar
 <!--ENDS_HERE_QUOTE_README-->
 
