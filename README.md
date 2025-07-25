@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Others can stop you temporarily - you are the only one who can do it permanently.” – Zig Ziglar
+“We meet ourselves time and again in a thousand disguises on the path of life.” – Carl Jung
 <!--ENDS_HERE_QUOTE_README-->
 
