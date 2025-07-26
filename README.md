@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“We meet ourselves time and again in a thousand disguises on the path of life.” – Carl Jung
+“One of the first signs of the beginning of understanding is the wish to die. ” – Franz Kafka
 <!--ENDS_HERE_QUOTE_README-->
 
