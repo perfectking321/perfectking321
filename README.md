@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“One of the first signs of the beginning of understanding is the wish to die. ” – Franz Kafka
+“If you are depressed, you are living in the past. If you are anxious, you are living in the future. if you are at peace, you are living in the present.” – Lao Tzu
 <!--ENDS_HERE_QUOTE_README-->
 
