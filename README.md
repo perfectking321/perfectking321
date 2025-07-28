@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“If you are depressed, you are living in the past. If you are anxious, you are living in the future. if you are at peace, you are living in the present.” – Lao Tzu
+“A random act of kindness, no matter how small, can make a tremendous impact on someone else's life.” – Roy T. Bennett
 <!--ENDS_HERE_QUOTE_README-->
 
