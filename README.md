@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“A random act of kindness, no matter how small, can make a tremendous impact on someone else's life.” – Roy T. Bennett
+“Every time we liberate a woman, we liberate a man. ” – Margaret Mead
 <!--ENDS_HERE_QUOTE_README-->
 
