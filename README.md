@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Every time we liberate a woman, we liberate a man. ” – Margaret Mead
+“Human happiness and moral duty are inseparably connected. ” – George Washington
 <!--ENDS_HERE_QUOTE_README-->
 
