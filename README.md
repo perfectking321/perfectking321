@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Human happiness and moral duty are inseparably connected. ” – George Washington
+“Receive without complaint, Work with fate.” – Ming-Dao Deng
 <!--ENDS_HERE_QUOTE_README-->
 
