@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Receive without complaint, Work with fate.” – Ming-Dao Deng
+“It's easier to lose than to win.  ” – Wayne Gretzky
 <!--ENDS_HERE_QUOTE_README-->
 
