@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“It's easier to lose than to win.  ” – Wayne Gretzky
+“What's obvious to you isn't obvious to most people. Operate from this perspective and you'll help more people.” – Jack Butcher
 <!--ENDS_HERE_QUOTE_README-->
 
