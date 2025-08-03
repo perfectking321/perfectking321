@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“What's obvious to you isn't obvious to most people. Operate from this perspective and you'll help more people.” – Jack Butcher
+“Some of the greater things in life are unseen; that's why you close your eyes when you kiss, cry, or dream.” – Unknown
 <!--ENDS_HERE_QUOTE_README-->
 
