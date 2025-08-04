@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Some of the greater things in life are unseen; that's why you close your eyes when you kiss, cry, or dream.” – Unknown
+“Progress comes to those who train and train; reliance on secret techniques will get you nowhere.” – Morihei Ueshiba
 <!--ENDS_HERE_QUOTE_README-->
 
