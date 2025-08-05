@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Progress comes to those who train and train; reliance on secret techniques will get you nowhere.” – Morihei Ueshiba
+“Life is one long process of getting tired.” – Samuel Butler
 <!--ENDS_HERE_QUOTE_README-->
 
