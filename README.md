@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Life is one long process of getting tired.” – Samuel Butler
+“Open your mind before your mouth.” – Aristophanes
 <!--ENDS_HERE_QUOTE_README-->
 
