@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Open your mind before your mouth.” – Aristophanes
+“When something is important enough, you do it even if the odds are not in your favor.” – Elon Musk
 <!--ENDS_HERE_QUOTE_README-->
 
