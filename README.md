@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“When something is important enough, you do it even if the odds are not in your favor.” – Elon Musk
+“Change yourself and you have done your part in changing the world.” – Paramahansa Yogananda
 <!--ENDS_HERE_QUOTE_README-->
 
