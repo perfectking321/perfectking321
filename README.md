@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Change yourself and you have done your part in changing the world.” – Paramahansa Yogananda
+“Unexpressed emotions will never die. They are buried alive and will come forth later in uglier ways.” – Sigmund Freud
 <!--ENDS_HERE_QUOTE_README-->
 
