@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Unexpressed emotions will never die. They are buried alive and will come forth later in uglier ways.” – Sigmund Freud
+“Nothing is more real than nothing.” – Samuel Beckett
 <!--ENDS_HERE_QUOTE_README-->
 
