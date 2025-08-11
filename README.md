@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Nothing is more real than nothing.” – Samuel Beckett
+“Well done is better than well said.” – Benjamin Franklin
 <!--ENDS_HERE_QUOTE_README-->
 
