@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Well done is better than well said.” – Benjamin Franklin
+“It is those who concentrate on but one thing at a time who advance in this world.” – Gary Keller
 <!--ENDS_HERE_QUOTE_README-->
 
