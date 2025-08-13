@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“It is those who concentrate on but one thing at a time who advance in this world.” – Gary Keller
+“If you get up one more time than you fall, you will make it through.” – Chinese Proverb
 <!--ENDS_HERE_QUOTE_README-->
 
