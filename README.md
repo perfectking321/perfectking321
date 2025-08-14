@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“If you get up one more time than you fall, you will make it through.” – Chinese Proverb
+“The more something scares you, the more you should do it.” – Mark Manson
 <!--ENDS_HERE_QUOTE_README-->
 
