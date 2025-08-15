@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“The more something scares you, the more you should do it.” – Mark Manson
+“You can't make someone feel good about themselves until you feel good about yourself.” – Robin Sharma
 <!--ENDS_HERE_QUOTE_README-->
 
