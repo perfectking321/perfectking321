@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“You can't make someone feel good about themselves until you feel good about yourself.” – Robin Sharma
+“The privilege of a lifetime is to become who you truly are.” – Carl Jung
 <!--ENDS_HERE_QUOTE_README-->
 
