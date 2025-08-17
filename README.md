@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“The privilege of a lifetime is to become who you truly are.” – Carl Jung
+“Goals are the fuel in the furnace of achievement.” – Brian Tracy
 <!--ENDS_HERE_QUOTE_README-->
 
