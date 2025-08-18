@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Goals are the fuel in the furnace of achievement.” – Brian Tracy
+“Keep your dreams, you never know when you might need them.” – Carlos Ruiz Zafon
 <!--ENDS_HERE_QUOTE_README-->
 
