@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Keep your dreams, you never know when you might need them.” – Carlos Ruiz Zafon
+“Be Brave and Take Risks: You need to have faith in yourself. Be brave and take risks. You don't have to have it all figured out to move forward.” – Roy T. Bennett
 <!--ENDS_HERE_QUOTE_README-->
 
