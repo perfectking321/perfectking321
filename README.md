@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Gratitude is the fairest blossom which springs from the soul.” – Henry Ward Beecher
+“Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat.” – Sun Tzu
 <!--ENDS_HERE_QUOTE_README-->
 
