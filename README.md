@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat.” – Sun Tzu
+“The quicker you let go of old cheese, the sooner you find new cheese.” – Spencer Johnson
 <!--ENDS_HERE_QUOTE_README-->
 
