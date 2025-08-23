@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“The quicker you let go of old cheese, the sooner you find new cheese.” – Spencer Johnson
+“Great things are not done by impulse, but by a series of small things brought together.” – Vincent van Gogh
 <!--ENDS_HERE_QUOTE_README-->
 
