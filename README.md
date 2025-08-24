@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Great things are not done by impulse, but by a series of small things brought together.” – Vincent van Gogh
+“Don't seek, don't avoid, don't expect. Take what comes and be happy.” – Maxime Lagace
 <!--ENDS_HERE_QUOTE_README-->
 
