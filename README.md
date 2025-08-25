@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Don't seek, don't avoid, don't expect. Take what comes and be happy.” – Maxime Lagace
+“If you are unable to find the truth right where you are, where else do you expect to find it?” – Dogen
 <!--ENDS_HERE_QUOTE_README-->
 
