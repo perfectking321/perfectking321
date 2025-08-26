@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“If you are unable to find the truth right where you are, where else do you expect to find it?” – Dogen
+“Appear weak when you are strong, and strong when you are weak.” – Sun Tzu
 <!--ENDS_HERE_QUOTE_README-->
 
