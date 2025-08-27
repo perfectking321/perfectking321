@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Appear weak when you are strong, and strong when you are weak.” – Sun Tzu
+“All our dreams can come true, if we have the courage to pursue them.” – Walt Disney
 <!--ENDS_HERE_QUOTE_README-->
 
