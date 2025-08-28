@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“All our dreams can come true, if we have the courage to pursue them.” – Walt Disney
+“Do not look for approval except for the consciousness of doing your best.” – Andrew Carnegie
 <!--ENDS_HERE_QUOTE_README-->
 
