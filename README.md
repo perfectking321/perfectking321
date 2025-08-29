@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Do not look for approval except for the consciousness of doing your best.” – Andrew Carnegie
+“None but ourselves can free our minds.” – Bob Marley
 <!--ENDS_HERE_QUOTE_README-->
 
