@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“None but ourselves can free our minds.” – Bob Marley
+“Failure is feedback. Learn from it and move on.” – Jack Butcher
 <!--ENDS_HERE_QUOTE_README-->
 
