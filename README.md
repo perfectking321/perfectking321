@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Life is a gift. Never forget to enjoy and bask in every moment you are in.” – Celestine Chua
+“Man invented language to satisfy his deep need to complain.” – Lily Tomlin
 <!--ENDS_HERE_QUOTE_README-->
 
