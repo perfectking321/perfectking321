@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Man invented language to satisfy his deep need to complain.” – Lily Tomlin
+“A single dream is more powerful than a thousand realities.” – J.R.R. Tolkien
 <!--ENDS_HERE_QUOTE_README-->
 
