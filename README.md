@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“A single dream is more powerful than a thousand realities.” – J.R.R. Tolkien
+“One of the really tough things is figuring out what questions to ask. Once you figure out the question, then the answer is relatively easy.” – Elon Musk
 <!--ENDS_HERE_QUOTE_README-->
 
