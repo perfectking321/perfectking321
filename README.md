@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Just do what must be done. This may not be happiness but it is greatness.” – George Bernard Shaw
+“Optimism, when applied to your life, develops strength and peace within you.” – Norman Vincent Peale
 <!--ENDS_HERE_QUOTE_README-->
 
