@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Optimism, when applied to your life, develops strength and peace within you.” – Norman Vincent Peale
+“You will never do anything in this world without courage. It is the greatest quality of the mind next to honor.” – James Allen
 <!--ENDS_HERE_QUOTE_README-->
 
