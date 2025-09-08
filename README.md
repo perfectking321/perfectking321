@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“If you don't break your ropes while you're alive, do you think ghosts will do it after?” – Kabir
+“The greatest weariness comes from work not done.” – Eric Hoffer
 <!--ENDS_HERE_QUOTE_README-->
 
