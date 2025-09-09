@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“The greatest weariness comes from work not done.” – Eric Hoffer
+“Courage is almost a contradiction in terms. It means a strong desire to live taking the form of a readiness to die.” – Gilbert Chesterton
 <!--ENDS_HERE_QUOTE_README-->
 
