@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Courage is almost a contradiction in terms. It means a strong desire to live taking the form of a readiness to die.” – Gilbert Chesterton
+“Success is getting what you want, happiness is wanting what you get.” – W.P. Kinsella
 <!--ENDS_HERE_QUOTE_README-->
 
