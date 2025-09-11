@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Success is getting what you want, happiness is wanting what you get.” – W.P. Kinsella
+“Thinking is the hardest work there is, which is probably the reason why so few engage in it.” – Henry Ford
 <!--ENDS_HERE_QUOTE_README-->
 
