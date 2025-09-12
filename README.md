@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Thinking is the hardest work there is, which is probably the reason why so few engage in it.” – Henry Ford
+“If the plan doesn't work, change the plan, but never the goal.” – Unknown
 <!--ENDS_HERE_QUOTE_README-->
 
