@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“If the plan doesn't work, change the plan, but never the goal.” – Unknown
+“Wisdom consists not so much in knowing what to do in the ultimate as knowing what to do next.” – Herbert Hoover
 <!--ENDS_HERE_QUOTE_README-->
 
