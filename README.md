@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Wisdom consists not so much in knowing what to do in the ultimate as knowing what to do next.” – Herbert Hoover
+“Forget mistakes. Forget failure. Forget everything except what you are going to do now and do it. Today is your lucky day!” – Og Mandino
 <!--ENDS_HERE_QUOTE_README-->
 
