@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Forget mistakes. Forget failure. Forget everything except what you are going to do now and do it. Today is your lucky day!” – Og Mandino
+“Knowledge is a treasure, but practice is the key to it.” – Lao Tzu
 <!--ENDS_HERE_QUOTE_README-->
 
