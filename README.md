@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Knowledge is a treasure, but practice is the key to it.” – Lao Tzu
+“I am who I am today because of the choices I made yesterday.” – Eleanor Roosevelt
 <!--ENDS_HERE_QUOTE_README-->
 
