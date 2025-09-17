@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“I am who I am today because of the choices I made yesterday.” – Eleanor Roosevelt
+“You are not the drop in the ocean, but the ocean in the drop.” – Deepak Chopra
 <!--ENDS_HERE_QUOTE_README-->
 
