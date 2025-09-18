@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“You are not the drop in the ocean, but the ocean in the drop.” – Deepak Chopra
+“We cannot expect to be happy always... by experiencing evil as well as good we become wise.” – Hans Christian Andersen
 <!--ENDS_HERE_QUOTE_README-->
 
