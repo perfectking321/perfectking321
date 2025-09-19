@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“We cannot expect to be happy always... by experiencing evil as well as good we become wise.” – Hans Christian Andersen
+“Never allow a person to tell you no who doesn't have the power to say yes.” – Eleanor Roosevelt
 <!--ENDS_HERE_QUOTE_README-->
 
