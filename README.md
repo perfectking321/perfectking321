@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Never allow a person to tell you no who doesn't have the power to say yes.” – Eleanor Roosevelt
+“Anger is an acid that can do more harm to the vessel in which it is stored than to anything on which it is poured.” – Mark Twain
 <!--ENDS_HERE_QUOTE_README-->
 
