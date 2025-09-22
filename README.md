@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Happiness is not something ready made. It comes from your own actions.” – Dalai Lama
+“Patience is a bitter plant, but its fruit is sweet.” – Chinese Proverb
 <!--ENDS_HERE_QUOTE_README-->
 
