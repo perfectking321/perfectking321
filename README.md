@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Patience is a bitter plant, but its fruit is sweet.” – Chinese Proverb
+“Your setback is just a setup for a comeback.” – Steve Harvey
 <!--ENDS_HERE_QUOTE_README-->
 
