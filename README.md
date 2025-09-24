@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Your setback is just a setup for a comeback.” – Steve Harvey
+“Silence is the great teacher and to learn its lessons you must pay attention to it.” – Deepak Chopra
 <!--ENDS_HERE_QUOTE_README-->
 
