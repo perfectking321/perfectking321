@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Silence is the great teacher and to learn its lessons you must pay attention to it.” – Deepak Chopra
+“A poet should be so crafty with words that he is envied even for his pains.” – Criss Jami
 <!--ENDS_HERE_QUOTE_README-->
 
