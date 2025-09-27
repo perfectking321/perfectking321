@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Our greatest glory is not in never falling but in rising every time we fall.” – Confucius
+“Anyone telling you it's pointless to share your perspective is sharing their perspective.” – Jack Butcher
 <!--ENDS_HERE_QUOTE_README-->
 
