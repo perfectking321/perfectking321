@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Anyone telling you it's pointless to share your perspective is sharing their perspective.” – Jack Butcher
+“Your past does not equal your future.” – Tony Robbins
 <!--ENDS_HERE_QUOTE_README-->
 
