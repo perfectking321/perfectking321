@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Your past does not equal your future.” – Tony Robbins
+“I have lived with several Zen masters -- all of them cats.” – Eckhart Tolle
 <!--ENDS_HERE_QUOTE_README-->
 
