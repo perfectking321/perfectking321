@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“I have lived with several Zen masters -- all of them cats.” – Eckhart Tolle
+“Some men see things as they are and ask why. Others dream things that never were and ask why not.” – George Bernard Shaw
 <!--ENDS_HERE_QUOTE_README-->
 
