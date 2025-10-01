@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Some men see things as they are and ask why. Others dream things that never were and ask why not.” – George Bernard Shaw
+“A man who dares to waste one hour of time has not discovered the value of life.” – Charles Darwin
 <!--ENDS_HERE_QUOTE_README-->
 
