@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“A man who dares to waste one hour of time has not discovered the value of life.” – Charles Darwin
+“One reason so few of us achieve what we truly want is that we never direct our focus; we never concentrate our power.” – Tony Robbins
 <!--ENDS_HERE_QUOTE_README-->
 
