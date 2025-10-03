@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“One reason so few of us achieve what we truly want is that we never direct our focus; we never concentrate our power.” – Tony Robbins
+“Learn to enjoy every minute of your life. Be happy now. Don't wait for something outside of yourself to make you happy in the future.” – Earl Nightingale
 <!--ENDS_HERE_QUOTE_README-->
 
