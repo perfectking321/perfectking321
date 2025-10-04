@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Learn to enjoy every minute of your life. Be happy now. Don't wait for something outside of yourself to make you happy in the future.” – Earl Nightingale
+“For every minute you are angry you lose sixty seconds of happiness.” – Ralph Waldo Emerson
 <!--ENDS_HERE_QUOTE_README-->
 
