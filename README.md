@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“For every minute you are angry you lose sixty seconds of happiness.” – Ralph Waldo Emerson
+“If you do what you've always done, you'll get what you've always gotten.” – Tony Robbins
 <!--ENDS_HERE_QUOTE_README-->
 
