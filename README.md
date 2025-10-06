@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“If you do what you've always done, you'll get what you've always gotten.” – Tony Robbins
+“Life is the art of drawing sufficient conclusions from insufficient premises.” – Samuel Butler
 <!--ENDS_HERE_QUOTE_README-->
 
