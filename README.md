@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Life is the art of drawing sufficient conclusions from insufficient premises.” – Samuel Butler
+“If you're afraid to die, you're afraid to live. You can't have one without the other.” – Rita Mae Brown
 <!--ENDS_HERE_QUOTE_README-->
 
