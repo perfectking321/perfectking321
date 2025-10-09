@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Confidence breeds beauty.  ” – Estee Lauder
+“I pay attention to every minute of the day.” – Steve Harvey
 <!--ENDS_HERE_QUOTE_README-->
 
