@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“I pay attention to every minute of the day.” – Steve Harvey
+“It's what you do in the present that will redeem the past and thereby change the future.” – Paulo Coelho
 <!--ENDS_HERE_QUOTE_README-->
 
