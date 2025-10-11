@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“It's what you do in the present that will redeem the past and thereby change the future.” – Paulo Coelho
+“The most virtuous are those who content themselves with being virtuous without seeking to appear so.” – Plato
 <!--ENDS_HERE_QUOTE_README-->
 
