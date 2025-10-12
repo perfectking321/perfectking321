@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“The most virtuous are those who content themselves with being virtuous without seeking to appear so.” – Plato
+“In the End, we will remember not the words of our enemies, but the silence of our friends.” – Martin Luther King, Jr.
 <!--ENDS_HERE_QUOTE_README-->
 
