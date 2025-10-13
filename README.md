@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“In the End, we will remember not the words of our enemies, but the silence of our friends.” – Martin Luther King, Jr.
+“Only I can change my life. No one can do it for me.” – Carol Burnett
 <!--ENDS_HERE_QUOTE_README-->
 
