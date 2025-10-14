@@ -83,6 +83,6 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Only I can change my life. No one can do it for me.” – Carol Burnett
+“Winning isn't everything, but wanting to win is.” – Vince Lombardi
 <!--ENDS_HERE_QUOTE_README-->
 
