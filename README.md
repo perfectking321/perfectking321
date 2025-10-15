@@ -122,5 +122,5 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-"Winning isn't everything, but wanting to win is." – Vince Lombardi
+“To do two things at once is to do neither.” – Publilius Syrus
 <!--ENDS_HERE_QUOTE_README-->
