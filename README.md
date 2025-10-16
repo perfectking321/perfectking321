@@ -122,5 +122,5 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“To do two things at once is to do neither.” – Publilius Syrus
+“If the misery of the poor be caused not by the laws of nature, but by our institutions, great is our sin.” – Charles Darwin
 <!--ENDS_HERE_QUOTE_README-->
