@@ -122,5 +122,5 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“If the misery of the poor be caused not by the laws of nature, but by our institutions, great is our sin.” – Charles Darwin
+“People acting together as a group can accomplish things which no individual acting alone could ever hope to bring about.” – Franklin D. Roosevelt
 <!--ENDS_HERE_QUOTE_README-->
