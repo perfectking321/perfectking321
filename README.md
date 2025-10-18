@@ -122,5 +122,5 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“People acting together as a group can accomplish things which no individual acting alone could ever hope to bring about.” – Franklin D. Roosevelt
+“People who avoid failure also avoid success.” – Robert Kiyosaki
 <!--ENDS_HERE_QUOTE_README-->
