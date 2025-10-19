@@ -122,5 +122,5 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“People who avoid failure also avoid success.” – Robert Kiyosaki
+“True friendship ought never to conceal what it thinks. ” – St. Jerome
 <!--ENDS_HERE_QUOTE_README-->
