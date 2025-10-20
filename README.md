@@ -122,5 +122,5 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“True friendship ought never to conceal what it thinks. ” – St. Jerome
+“Some changes look negative on the surface but you will soon realize that space is being created in your life for something new to emerge.” – Eckhart Tolle
 <!--ENDS_HERE_QUOTE_README-->
