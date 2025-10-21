@@ -122,5 +122,5 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Some changes look negative on the surface but you will soon realize that space is being created in your life for something new to emerge.” – Eckhart Tolle
+“If ever you feel like an animal among men, be a lion.” – Criss Jami
 <!--ENDS_HERE_QUOTE_README-->
