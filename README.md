@@ -122,5 +122,5 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“If ever you feel like an animal among men, be a lion.” – Criss Jami
+“Today is plenty; right now is enough. Tomorrow will come in good time. Until it does, live the depth of now.” – Ralph Marston
 <!--ENDS_HERE_QUOTE_README-->
