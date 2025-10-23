@@ -122,5 +122,5 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Today is plenty; right now is enough. Tomorrow will come in good time. Until it does, live the depth of now.” – Ralph Marston
+“Life is ten percent what you experience and ninety percent how you respond to it.” – Unknown
 <!--ENDS_HERE_QUOTE_README-->
