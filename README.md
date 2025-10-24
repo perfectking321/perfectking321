@@ -122,5 +122,5 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Life is ten percent what you experience and ninety percent how you respond to it.” – Unknown
+“Where the willingness is great, the difficulties cannot be great.” – Niccolo Machiavelli
 <!--ENDS_HERE_QUOTE_README-->
