@@ -122,5 +122,5 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Where the willingness is great, the difficulties cannot be great.” – Niccolo Machiavelli
+“New beginnings are disguised as painful endings.” – Lao Tzu
 <!--ENDS_HERE_QUOTE_README-->
