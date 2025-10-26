@@ -122,5 +122,5 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“New beginnings are disguised as painful endings.” – Lao Tzu
+“Live, travel, adventure, bless, and don't be sorry.  ” – Jack Kerouac
 <!--ENDS_HERE_QUOTE_README-->
