@@ -122,5 +122,5 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“If you change the way you look at things, the things you look at change. ” – Wayne Dyer
+“Motivation is what gets you started. Habit is what keeps you going.” – Jim Rohn
 <!--ENDS_HERE_QUOTE_README-->
