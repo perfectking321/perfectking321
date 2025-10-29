@@ -122,5 +122,5 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Motivation is what gets you started. Habit is what keeps you going.” – Jim Rohn
+“No one ever said life was fair. Just Eventful.” – Carol Burnett
 <!--ENDS_HERE_QUOTE_README-->
