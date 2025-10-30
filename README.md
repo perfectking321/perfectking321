@@ -122,5 +122,5 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“No one ever said life was fair. Just Eventful.” – Carol Burnett
+“Focus on how far you have come in life rather than looking at the accomplishments of others.” – Lolly Daskal
 <!--ENDS_HERE_QUOTE_README-->
