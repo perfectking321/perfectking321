@@ -122,5 +122,5 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Focus on how far you have come in life rather than looking at the accomplishments of others.” – Lolly Daskal
+“Make each day a new horizon.” – Christopher McCandless
 <!--ENDS_HERE_QUOTE_README-->
