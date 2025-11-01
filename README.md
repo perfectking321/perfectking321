@@ -122,5 +122,5 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Make each day a new horizon.” – Christopher McCandless
+“In order to attain the impossible, one must attempt the absurd.” – Miguel de Cervantes
 <!--ENDS_HERE_QUOTE_README-->
