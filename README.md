@@ -122,5 +122,5 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“In order to attain the impossible, one must attempt the absurd.” – Miguel de Cervantes
+“Acknowledging the good that you already have in your life is the foundation for all abundance.” – Eckhart Tolle
 <!--ENDS_HERE_QUOTE_README-->
