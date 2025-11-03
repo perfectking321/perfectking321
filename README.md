@@ -122,5 +122,5 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Acknowledging the good that you already have in your life is the foundation for all abundance.” – Eckhart Tolle
+“Don't live the same year 75 times and call it a life.” – Robin Sharma
 <!--ENDS_HERE_QUOTE_README-->
