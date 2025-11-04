@@ -122,5 +122,5 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Don't live the same year 75 times and call it a life.” – Robin Sharma
+“A man with outward courage dares to die: a man with inner courage dares to live.” – Lao Tzu
 <!--ENDS_HERE_QUOTE_README-->
