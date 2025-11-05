@@ -122,5 +122,5 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“A man with outward courage dares to die: a man with inner courage dares to live.” – Lao Tzu
+“We can change our lives. We can do, have, and be exactly what we wish.” – Tony Robbins
 <!--ENDS_HERE_QUOTE_README-->
