@@ -122,5 +122,5 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“We can change our lives. We can do, have, and be exactly what we wish.” – Tony Robbins
+“Our view of the world is truly shaped by what we decide to hear.” – William James
 <!--ENDS_HERE_QUOTE_README-->
