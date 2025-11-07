@@ -122,5 +122,5 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Our view of the world is truly shaped by what we decide to hear.” – William James
+“You were born to win, but to be a winner you must plan to win, prepare to win, and expect to win.” – Zig Ziglar
 <!--ENDS_HERE_QUOTE_README-->
