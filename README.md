@@ -122,5 +122,5 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“You were born to win, but to be a winner you must plan to win, prepare to win, and expect to win.” – Zig Ziglar
+“What's right is what's left if you do everything else wrong.” – Robin Williams
 <!--ENDS_HERE_QUOTE_README-->
