@@ -122,5 +122,5 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“What's right is what's left if you do everything else wrong.” – Robin Williams
+“Where does a thought go when it's forgotten?” – Sigmund Freud
 <!--ENDS_HERE_QUOTE_README-->
