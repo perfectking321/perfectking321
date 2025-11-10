@@ -122,5 +122,5 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Where does a thought go when it's forgotten?” – Sigmund Freud
+“No amount of regretting can change the past, and no amount of worrying can change the future.” – Roy T. Bennett
 <!--ENDS_HERE_QUOTE_README-->
