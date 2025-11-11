@@ -122,5 +122,5 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“No amount of regretting can change the past, and no amount of worrying can change the future.” – Roy T. Bennett
+“To seek greatness is the only righteous vengeance.” – Criss Jami
 <!--ENDS_HERE_QUOTE_README-->
