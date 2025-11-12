@@ -122,5 +122,5 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“To seek greatness is the only righteous vengeance.” – Criss Jami
+“Judge your success by what you had to give up in order to get it.” – Dalai Lama
 <!--ENDS_HERE_QUOTE_README-->
