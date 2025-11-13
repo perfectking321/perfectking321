@@ -122,5 +122,5 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Judge your success by what you had to give up in order to get it.” – Dalai Lama
+“Respect other people's feelings. It might mean nothing to you, but it could mean everything to them.” – Roy T. Bennett
 <!--ENDS_HERE_QUOTE_README-->
