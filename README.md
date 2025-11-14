@@ -122,5 +122,5 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Respect other people's feelings. It might mean nothing to you, but it could mean everything to them.” – Roy T. Bennett
+“Sometimes you have to shut your eyes, so you can see the real beauty.” – Kilian Jornet
 <!--ENDS_HERE_QUOTE_README-->
