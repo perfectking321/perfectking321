@@ -122,5 +122,5 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Sometimes you have to shut your eyes, so you can see the real beauty.” – Kilian Jornet
+“Life should be touched, not strangled.  ” – Ray Bradbury
 <!--ENDS_HERE_QUOTE_README-->
