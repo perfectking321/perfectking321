@@ -122,5 +122,5 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Life should be touched, not strangled.  ” – Ray Bradbury
+“What's right is what's left if you do everything else wrong.” – Robin Williams
 <!--ENDS_HERE_QUOTE_README-->
