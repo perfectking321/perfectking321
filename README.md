@@ -122,5 +122,5 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“What's right is what's left if you do everything else wrong.” – Robin Williams
+“Meanings are not determined by situations, but we determine ourselves by the meanings we give to situations.” – Alfred Adler
 <!--ENDS_HERE_QUOTE_README-->
