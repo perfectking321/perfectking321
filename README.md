@@ -122,5 +122,5 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Meanings are not determined by situations, but we determine ourselves by the meanings we give to situations.” – Alfred Adler
+“It takes a very long time to become young.” – Pablo Picasso
 <!--ENDS_HERE_QUOTE_README-->
