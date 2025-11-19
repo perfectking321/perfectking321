@@ -122,5 +122,5 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“It takes a very long time to become young.” – Pablo Picasso
+“Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love. ” – Lao Tzu
 <!--ENDS_HERE_QUOTE_README-->
