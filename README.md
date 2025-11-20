@@ -122,5 +122,5 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love. ” – Lao Tzu
+“You must welcome change as the rule but not as your ruler. ” – Denis Waitley
 <!--ENDS_HERE_QUOTE_README-->
