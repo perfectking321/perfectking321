@@ -122,5 +122,5 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“You must welcome change as the rule but not as your ruler. ” – Denis Waitley
+“Surround yourself with people who take their work seriously, but not themselves, those who work hard and play hard.” – Colin Powell
 <!--ENDS_HERE_QUOTE_README-->
