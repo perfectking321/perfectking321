@@ -122,5 +122,5 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Surround yourself with people who take their work seriously, but not themselves, those who work hard and play hard.” – Colin Powell
+“Everyday is a second chance.” – Unknown
 <!--ENDS_HERE_QUOTE_README-->
