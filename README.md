@@ -122,5 +122,5 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Everyday is a second chance.” – Unknown
+“Art is to console those who are broken by life.” – Vincent van Gogh
 <!--ENDS_HERE_QUOTE_README-->
