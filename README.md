@@ -122,5 +122,5 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Art is to console those who are broken by life.” – Vincent van Gogh
+“Discipline is the mark of intelligent living.” – Sathya Sai Baba
 <!--ENDS_HERE_QUOTE_README-->
