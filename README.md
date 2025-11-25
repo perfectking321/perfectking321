@@ -122,5 +122,5 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Discipline is the mark of intelligent living.” – Sathya Sai Baba
+“The more perfect a person is on the outside, the more demons they have on the inside.” – Sigmund Freud
 <!--ENDS_HERE_QUOTE_README-->
