@@ -122,5 +122,5 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“The more perfect a person is on the outside, the more demons they have on the inside.” – Sigmund Freud
+“Wishing to be friends is quick work, but friendship is a slow ripening fruit.” – Aristotle
 <!--ENDS_HERE_QUOTE_README-->
