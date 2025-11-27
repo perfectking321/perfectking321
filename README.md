@@ -122,5 +122,5 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Wishing to be friends is quick work, but friendship is a slow ripening fruit.” – Aristotle
+“Ponder and deliberate before you make a move.” – Sun Tzu
 <!--ENDS_HERE_QUOTE_README-->
