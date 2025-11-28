@@ -122,5 +122,5 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Ponder and deliberate before you make a move.” – Sun Tzu
+“Life must be a constant education; one must learn everything, from speaking to dying.” – Gustave Flaubert
 <!--ENDS_HERE_QUOTE_README-->
