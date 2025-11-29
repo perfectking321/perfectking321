@@ -122,5 +122,5 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Life must be a constant education; one must learn everything, from speaking to dying.” – Gustave Flaubert
+“When you repeat a mistake, it is not a mistake anymore: it is a decision.” – Paulo Coelho
 <!--ENDS_HERE_QUOTE_README-->
