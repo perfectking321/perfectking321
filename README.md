@@ -122,5 +122,5 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“When you repeat a mistake, it is not a mistake anymore: it is a decision.” – Paulo Coelho
+“If you let your head get too big, it'll break your neck.” – Elvis Presley
 <!--ENDS_HERE_QUOTE_README-->
