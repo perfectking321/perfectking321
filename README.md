@@ -122,5 +122,5 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“If you let your head get too big, it'll break your neck.” – Elvis Presley
+“When you lose your desire for things that do not matter, you will be free.” – Morihei Ueshiba
 <!--ENDS_HERE_QUOTE_README-->
