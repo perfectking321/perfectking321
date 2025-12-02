@@ -122,5 +122,5 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“When you lose your desire for things that do not matter, you will be free.” – Morihei Ueshiba
+“It's easy to wish for health when you're sick.  When you're doing well, you need just as much vigilance.” – Kamal Ravikant
 <!--ENDS_HERE_QUOTE_README-->
