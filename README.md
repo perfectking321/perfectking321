@@ -122,5 +122,5 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“It's easy to wish for health when you're sick.  When you're doing well, you need just as much vigilance.” – Kamal Ravikant
+“No man ever steps in the same river twice, for it's not the same river and he's not the same man.” – Heraclitus
 <!--ENDS_HERE_QUOTE_README-->
