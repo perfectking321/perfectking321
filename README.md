@@ -122,5 +122,5 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“No man ever steps in the same river twice, for it's not the same river and he's not the same man.” – Heraclitus
+“A man has to learn that he cannot command things but that he can command himself; that he cannot coerce the wills of others but that he can mold and master his own will.” – James Allen
 <!--ENDS_HERE_QUOTE_README-->
