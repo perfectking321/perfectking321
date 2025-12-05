@@ -122,5 +122,5 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“A man has to learn that he cannot command things but that he can command himself; that he cannot coerce the wills of others but that he can mold and master his own will.” – James Allen
+“We don't stumble accidentally into an amazing life. It takes decision, a commitment to consistently work on ourselves.” – Kamal Ravikant
 <!--ENDS_HERE_QUOTE_README-->
