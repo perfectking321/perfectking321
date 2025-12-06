@@ -122,5 +122,5 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“We don't stumble accidentally into an amazing life. It takes decision, a commitment to consistently work on ourselves.” – Kamal Ravikant
+“Normality is a paved road: It's comfortable to walk, but no flowers grow on it.” – Vincent van Gogh
 <!--ENDS_HERE_QUOTE_README-->
