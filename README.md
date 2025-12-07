@@ -122,5 +122,5 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Normality is a paved road: It's comfortable to walk, but no flowers grow on it.” – Vincent van Gogh
+“Many have died; you also will die. The drum of death is being beaten. The world has fallen in love with a dream. Only sayings of the wise will remain.” – Kabir
 <!--ENDS_HERE_QUOTE_README-->
