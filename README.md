@@ -122,5 +122,5 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Many have died; you also will die. The drum of death is being beaten. The world has fallen in love with a dream. Only sayings of the wise will remain.” – Kabir
+“The wiser you get, the less you care to look like a fool.” – Maxime Lagace
 <!--ENDS_HERE_QUOTE_README-->
