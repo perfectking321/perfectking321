@@ -122,5 +122,5 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“The wiser you get, the less you care to look like a fool.” – Maxime Lagace
+“Trust is the foundation of great leadership.” – Lolly Daskal
 <!--ENDS_HERE_QUOTE_README-->
