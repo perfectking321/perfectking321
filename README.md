@@ -122,5 +122,5 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Trust is the foundation of great leadership.” – Lolly Daskal
+“Excellence is not an exception, it is a prevailing attitude.” – Colin Powell
 <!--ENDS_HERE_QUOTE_README-->
