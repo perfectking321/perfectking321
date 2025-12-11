@@ -122,5 +122,5 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Excellence is not an exception, it is a prevailing attitude.” – Colin Powell
+“Begin now to be what you will be hereafter.” – St. Jerome
 <!--ENDS_HERE_QUOTE_README-->
