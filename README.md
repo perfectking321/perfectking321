@@ -122,5 +122,5 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Begin now to be what you will be hereafter.” – St. Jerome
+“A comfort zone is a beautiful place, but nothing ever grows there.” – Unknown
 <!--ENDS_HERE_QUOTE_README-->
