@@ -122,5 +122,5 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“A comfort zone is a beautiful place, but nothing ever grows there.” – Unknown
+“Success is achieved and maintained by those who try and keep trying. ” – W. Clement Stone
 <!--ENDS_HERE_QUOTE_README-->
