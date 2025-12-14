@@ -122,5 +122,5 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Success is achieved and maintained by those who try and keep trying. ” – W. Clement Stone
+“The ones who are crazy enough to think they can change the world, are the ones that do.” – Steve Jobs
 <!--ENDS_HERE_QUOTE_README-->
