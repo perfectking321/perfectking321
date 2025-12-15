@@ -122,5 +122,5 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“The ones who are crazy enough to think they can change the world, are the ones that do.” – Steve Jobs
+“Absorb what is useful, discard what is not, add what is uniquely your own.” – Bruce Lee
 <!--ENDS_HERE_QUOTE_README-->
