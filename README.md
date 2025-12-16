@@ -122,5 +122,5 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Absorb what is useful, discard what is not, add what is uniquely your own.” – Bruce Lee
+“The only place success comes before work is in the dictionary.” – Vince Lombardi
 <!--ENDS_HERE_QUOTE_README-->
