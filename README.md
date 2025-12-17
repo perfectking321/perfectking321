@@ -122,5 +122,5 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“The only place success comes before work is in the dictionary.” – Vince Lombardi
+“Happiness is the spiritual experience of living every minute with love, grace and gratitude.” – Denis Waitley
 <!--ENDS_HERE_QUOTE_README-->
