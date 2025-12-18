@@ -122,5 +122,5 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Happiness is the spiritual experience of living every minute with love, grace and gratitude.” – Denis Waitley
+“The harder the conflict, the greater the triumph. ” – George Washington
 <!--ENDS_HERE_QUOTE_README-->
