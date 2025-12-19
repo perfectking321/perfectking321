@@ -122,5 +122,5 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“The harder the conflict, the greater the triumph. ” – George Washington
+“It is not the knowing that is difficult, but the doing. ” – Chinese Proverb
 <!--ENDS_HERE_QUOTE_README-->
