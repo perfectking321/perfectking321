@@ -122,5 +122,5 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“It is not the knowing that is difficult, but the doing. ” – Chinese Proverb
+“I thought how unpleasant it is to be locked out; and I thought how it is worse, perhaps, to be locked in.” – Virginia Woolf
 <!--ENDS_HERE_QUOTE_README-->
