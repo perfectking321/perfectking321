@@ -122,5 +122,5 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“I thought how unpleasant it is to be locked out; and I thought how it is worse, perhaps, to be locked in.” – Virginia Woolf
+“Do not anticipate trouble, or worry about what may never happen. Keep in the sunlight.” – Benjamin Franklin
 <!--ENDS_HERE_QUOTE_README-->
