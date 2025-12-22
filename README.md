@@ -122,5 +122,5 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Do not anticipate trouble, or worry about what may never happen. Keep in the sunlight.” – Benjamin Franklin
+“What one does is what counts. Not what one had the intention of doing.” – Pablo Picasso
 <!--ENDS_HERE_QUOTE_README-->
