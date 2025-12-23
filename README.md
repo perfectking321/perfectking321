@@ -122,5 +122,5 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“What one does is what counts. Not what one had the intention of doing.” – Pablo Picasso
+“Try not to become a man of success, but rather try to become a man of value.” – Albert Einstein
 <!--ENDS_HERE_QUOTE_README-->
