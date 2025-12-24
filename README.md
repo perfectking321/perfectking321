@@ -122,5 +122,5 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Try not to become a man of success, but rather try to become a man of value.” – Albert Einstein
+“Obstacles can't stop you. Problems can't stop you. Most of all, other people can't stop you. Only you can stop you.” – Jeffrey Gitomer
 <!--ENDS_HERE_QUOTE_README-->
