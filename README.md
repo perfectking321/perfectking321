@@ -122,5 +122,5 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Only I can change my life. No one can do it for me.” – Carol Burnett
+“Your greatest asset is your earning ability. Your greatest resource is your time.” – Brian Tracy
 <!--ENDS_HERE_QUOTE_README-->
