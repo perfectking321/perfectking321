@@ -122,5 +122,5 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Your greatest asset is your earning ability. Your greatest resource is your time.” – Brian Tracy
+“Success is stumbling from failure to failure with no loss of enthusiasm.” – Winston Churchill
 <!--ENDS_HERE_QUOTE_README-->
