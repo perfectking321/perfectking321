@@ -122,5 +122,5 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Success is stumbling from failure to failure with no loss of enthusiasm.” – Winston Churchill
+“Sad thing is, you can still love someone and be wrong for them.” – Elvis Presley
 <!--ENDS_HERE_QUOTE_README-->
