@@ -122,5 +122,5 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Sad thing is, you can still love someone and be wrong for them.” – Elvis Presley
+“Have a vision. Be demanding.” – Colin Powell
 <!--ENDS_HERE_QUOTE_README-->
