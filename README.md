@@ -122,5 +122,5 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Have a vision. Be demanding.” – Colin Powell
+“Getting over a painful experience is much like crossing monkey bars. You have to let go at some point in order to move forward.” – Unknown
 <!--ENDS_HERE_QUOTE_README-->
