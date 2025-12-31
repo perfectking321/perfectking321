@@ -122,5 +122,5 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Getting over a painful experience is much like crossing monkey bars. You have to let go at some point in order to move forward.” – Unknown
+“Do one thing every day that scares you.” – Eleanor Roosevelt
 <!--ENDS_HERE_QUOTE_README-->
