@@ -122,5 +122,5 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Do one thing every day that scares you.” – Eleanor Roosevelt
+“A needle is not sharp at both ends. ” – Chinese Proverb
 <!--ENDS_HERE_QUOTE_README-->
