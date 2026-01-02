@@ -122,5 +122,5 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“A needle is not sharp at both ends. ” – Chinese Proverb
+“Have the courage to be ignorant of a great number of things, in order to avoid the calamity of being ignorant of everything.” – Sydney Smith
 <!--ENDS_HERE_QUOTE_README-->
