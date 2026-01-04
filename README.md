@@ -122,5 +122,5 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Only the educated are free.” – Epictetus
+“Identification with our mind causes thought to become compulsive.” – Eckhart Tolle
 <!--ENDS_HERE_QUOTE_README-->
