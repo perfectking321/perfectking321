@@ -122,5 +122,5 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Chase your passion, not your pension. ” – Denis Waitley
+“Lack of emotion causes lack of progress and lack of motivation.” – Tony Robbins
 <!--ENDS_HERE_QUOTE_README-->
