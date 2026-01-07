@@ -122,5 +122,5 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Lack of emotion causes lack of progress and lack of motivation.” – Tony Robbins
+“He who can, does.” – George Bernard Shaw
 <!--ENDS_HERE_QUOTE_README-->
