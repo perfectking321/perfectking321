@@ -122,5 +122,5 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“He who can, does.” – George Bernard Shaw
+“He who leaves the game wins it.” – Nicolas Chamfort
 <!--ENDS_HERE_QUOTE_README-->
