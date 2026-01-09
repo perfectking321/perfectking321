@@ -122,5 +122,5 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“He who leaves the game wins it.” – Nicolas Chamfort
+“Make no small plans for they have no power to stir the soul.” – Niccolo Machiavelli
 <!--ENDS_HERE_QUOTE_README-->
