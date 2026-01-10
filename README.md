@@ -122,5 +122,5 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Make no small plans for they have no power to stir the soul.” – Niccolo Machiavelli
+“You're never too old for anything.” – Betty White
 <!--ENDS_HERE_QUOTE_README-->
