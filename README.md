@@ -122,5 +122,5 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“You're never too old for anything.” – Betty White
+“A good master leads you to the true master within. Only that master, who is your own higher self, can adequately answer all questions.” – Ming-Dao Deng
 <!--ENDS_HERE_QUOTE_README-->
