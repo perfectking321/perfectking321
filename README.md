@@ -122,5 +122,5 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“A good master leads you to the true master within. Only that master, who is your own higher self, can adequately answer all questions.” – Ming-Dao Deng
+“Things may come to those who wait, but only the things left by those who hustle.” – Abraham Lincoln
 <!--ENDS_HERE_QUOTE_README-->
