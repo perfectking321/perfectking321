@@ -122,5 +122,5 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Things may come to those who wait, but only the things left by those who hustle.” – Abraham Lincoln
+“People don't care how much you know until they know how much you care.” – Theodore Roosevelt
 <!--ENDS_HERE_QUOTE_README-->
