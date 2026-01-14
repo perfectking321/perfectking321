@@ -122,5 +122,5 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“People don't care how much you know until they know how much you care.” – Theodore Roosevelt
+“Happiness comes when you believe in what you are doing, know what you are doing, and love what you are doing.” – Brian Tracy
 <!--ENDS_HERE_QUOTE_README-->
