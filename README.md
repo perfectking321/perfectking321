@@ -122,5 +122,5 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Happiness comes when you believe in what you are doing, know what you are doing, and love what you are doing.” – Brian Tracy
+“Stress happens when the mind resists what is.” – Dan Millman
 <!--ENDS_HERE_QUOTE_README-->
