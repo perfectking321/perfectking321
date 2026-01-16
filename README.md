@@ -122,5 +122,5 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Stress happens when the mind resists what is.” – Dan Millman
+“The big thing is to make a winning effort. I'm not obsessed with wins.” – Morgan Wootten
 <!--ENDS_HERE_QUOTE_README-->
