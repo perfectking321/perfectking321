@@ -122,5 +122,5 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“The big thing is to make a winning effort. I'm not obsessed with wins.” – Morgan Wootten
+“The secret of happiness, you see, is not found in seeking more, but in developing the capacity to enjoy less.” – Dan Millman
 <!--ENDS_HERE_QUOTE_README-->
