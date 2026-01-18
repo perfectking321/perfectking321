@@ -122,5 +122,5 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“The secret of happiness, you see, is not found in seeking more, but in developing the capacity to enjoy less.” – Dan Millman
+“Consider the rights of others before your own feelings, and the feelings of others before your own rights.” – John Wooden
 <!--ENDS_HERE_QUOTE_README-->
