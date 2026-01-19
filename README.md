@@ -122,5 +122,5 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Consider the rights of others before your own feelings, and the feelings of others before your own rights.” – John Wooden
+“We can change our lives. We can do, have, and be exactly what we wish.” – Tony Robbins
 <!--ENDS_HERE_QUOTE_README-->
