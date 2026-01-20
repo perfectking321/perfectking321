@@ -122,5 +122,5 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“We can change our lives. We can do, have, and be exactly what we wish.” – Tony Robbins
+“He who laughs at himself never runs out of things to laugh at.” – Epictetus
 <!--ENDS_HERE_QUOTE_README-->
