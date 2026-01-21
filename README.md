@@ -122,5 +122,5 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“He who laughs at himself never runs out of things to laugh at.” – Epictetus
+“To be truly positive in the eyes of some, you have to risk appearing negative in the eyes of others.” – Criss Jami
 <!--ENDS_HERE_QUOTE_README-->
