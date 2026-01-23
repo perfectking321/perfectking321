@@ -122,5 +122,5 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“The more rejection you get, the better you are, the more you've learned, the closer you are to your outcome.” – Tony Robbins
+“It will never rain roses: when we want to have more roses, we must plant more roses.” – George Eliot
 <!--ENDS_HERE_QUOTE_README-->
