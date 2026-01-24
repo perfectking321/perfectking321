@@ -122,5 +122,5 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“It will never rain roses: when we want to have more roses, we must plant more roses.” – George Eliot
+“You're braver than you believe, and stronger than you seem, and smarter than you think.” – A.A. Milne
 <!--ENDS_HERE_QUOTE_README-->
