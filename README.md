@@ -122,5 +122,5 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“You're braver than you believe, and stronger than you seem, and smarter than you think.” – A.A. Milne
+“You don't need anybody to tell you who you are or what you are. You are what you are!” – John Lennon
 <!--ENDS_HERE_QUOTE_README-->
