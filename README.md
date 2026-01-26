@@ -122,5 +122,5 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“You don't need anybody to tell you who you are or what you are. You are what you are!” – John Lennon
+“The day is for honest men, the night for thieves.” – Euripides
 <!--ENDS_HERE_QUOTE_README-->
