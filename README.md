@@ -122,5 +122,5 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“The day is for honest men, the night for thieves.” – Euripides
+“Behind every beautiful thing, there's some kind of pain.” – Bob Dylan
 <!--ENDS_HERE_QUOTE_README-->
