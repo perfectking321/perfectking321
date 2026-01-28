@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=200&section=header&text=Hi%20there%20👋&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=200&section=header&text=Hi%20there%20👋&fontSize=80&fontAlignY=35&animation=twinkling" />
 </div>
 
 <h1 align="center">I'm Iyad Ahmed</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A855F7&center=true&vCenter=true&repeat=true&width=600&lines=Full-Stack+Developer;AI%2FML+Developer;Problem+Solver" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A855F7&center=true&vCenter=true&repeat=true&width=600&lines=Full+Stack+Developer;AI/ML+Developer;Problem+Solver;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -27,8 +27,8 @@ Hey! I'm Iyad – a <strong>Full-Stack Developer</strong>, <strong>AI/ML Develop
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=perfectking321&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=perfectking321&layout=compact&langs_count=8&theme=material-palenight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=perfectking321&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=perfectking321&layout=compact&langs_count=8&theme=material-palenight&hide_border=true&bg_color=0d1117" alt="Top Languages"/>
 </div>
 
 <div align="center">
