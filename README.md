@@ -122,5 +122,5 @@
 ## ✍️ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
-“Behind every beautiful thing, there's some kind of pain.” – Bob Dylan
+“If you don't like something change it. If you can't change it, change your attitude about it. Don't complain.” – Maya Angelou
 <!--ENDS_HERE_QUOTE_README-->
