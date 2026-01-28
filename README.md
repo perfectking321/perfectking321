@@ -15,13 +15,12 @@
   <img src="https://komarev.com/ghpvc/?username=perfectking321&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
 </p>
 
-<br>
 
 <h1 align="center">About Me</h1>
 <p align="center">
 Hey! I'm Iyad – a <strong>Full-Stack Developer</strong>, <strong>AI/ML Developer</strong>, and <strong>Problem Solver</strong> who loves turning complex challenges into elegant solutions.<br>
-<br>
 
+<br>
 <h1 align="center"> Stats</h1>
 
 <h3 align="center"> GitHub Analytics </h3>
@@ -38,8 +37,6 @@ Hey! I'm Iyad – a <strong>Full-Stack Developer</strong>, <strong>AI/ML Develop
 
 <br>
 
-<br>
-
 <table align="center">
   <tr>
     <td align="center">
@@ -53,15 +50,10 @@ Hey! I'm Iyad – a <strong>Full-Stack Developer</strong>, <strong>AI/ML Develop
   </tr>
 </table>
 
-<br>
-
-
-<h3 align="center">Contribution Graph </h3>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=perfectking321&custom_title=Contribution%20Graph&bg_color=0d1117&color=a855f7&line=a855f7&point=ffffff&area=true&hide_border=true&theme=material-palenight" alt="Contribution Graph"/>
 </div>
 
-<br>
 
 <h3 align="center">🛠️ Tech Stack</h3>
 
@@ -96,7 +88,6 @@ Hey! I'm Iyad – a <strong>Full-Stack Developer</strong>, <strong>AI/ML Develop
   </tr>
 </table>
 
-<br>
 
 <h3 align="center">✍️ Quote of the Day</h3>
 
