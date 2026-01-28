@@ -5,7 +5,7 @@
 <h1 align="center">I'm Iyad Ahmed</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A855F7&center=true&vCenter=true&repeat=true&width=600&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Arch+Linux+User;Problem+Solver;Always+Learning" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A855F7&center=true&vCenter=true&repeat=true&width=600&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Problem+Solver;Arch+Linux+User;Always+Learning" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -19,7 +19,8 @@
 
 <h3 align="center">🚀 About Me</h3>
 <p align="center">
-Hey! I'm Iyad – a <strong>Full-Stack Developer</strong>, <strong>AI/ML Developer</strong>, and <strong>🐧 Arch Linux Power-User</strong> who loves turning complex challenges into elegant solutions.
+Hey! I'm Iyad – a <strong>Full-Stack Developer</strong>, <strong>AI/ML Developer</strong>, and <strong>Problem Solver</strong> who loves turning complex challenges into elegant solutions.<br>
+🐧 <strong>Arch Linux Power-User</strong> | Always exploring new technologies and building cool stuff!
 </p>
 
 <br>
@@ -34,26 +35,24 @@ Hey! I'm Iyad – a <strong>Full-Stack Developer</strong>, <strong>AI/ML Develop
 
 <br>
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <h3>🔥 GitHub Streak</h3>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=perfectking321&theme=material-palenight&hide_border=true&background=0d1117&ring=a855f7&fire=a855f7&currStreakLabel=a855f7" alt="GitHub Streak"/>
-      </td>
-      <td align="center" width="50%">
-        <h3>💻 LeetCode Stats</h3>
-        <img src="https://leetcard.jacoblin.cool/IYAD_?theme=dark&font=Ubuntu&ext=contest" alt="LeetCode Stats"/>
-      </td>
-    </tr>
-  </table>
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <h3>🔥 GitHub Streak</h3>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=perfectking321&theme=material-palenight&hide_border=true&background=0d1117&ring=a855f7&fire=a855f7&currStreakLabel=a855f7" alt="GitHub Streak"/>
+    </td>
+    <td align="center">
+      <h3>💻 LeetCode Stats</h3>
+      <img src="https://leetcard.jacoblin.cool/IYAD_?theme=dark&font=Ubuntu&ext=contest" alt="LeetCode Stats"/>
+    </td>
+  </tr>
+</table>
 
 <br>
 
 ### 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=perfectking321&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophy"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=perfectking321&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophy"/>
 </div>
 
 <br>
@@ -67,51 +66,48 @@ Hey! I'm Iyad – a <strong>Full-Stack Developer</strong>, <strong>AI/ML Develop
 
 <h3 align="center">🛠️ Tech Stack</h3>
 
-<div align="center">
-
-### Languages
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js&theme=dark&perline=8" />
-  </a>
-</p>
-
-### Frontend
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,html,css&theme=dark&perline=8" />
-  </a>
-</p>
-
-### Backend
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flask,nodejs&theme=dark&perline=8" />
-  </a>
-</p>
-
-### Database
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,firebase&theme=dark&perline=8" />
-  </a>
-</p>
-
-### DevOps & Tools
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark&perline=8" />
-  </a>
-</p>
-
-### Cloud
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=netlify,vercel&theme=dark&perline=8" />
-  </a>
-</p>
-
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="200">
+      <h4>💻 Languages</h4>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js&theme=dark&perline=5" />
+      </a>
+    </td>
+    <td align="center" width="200">
+      <h4>🎨 Frontend</h4>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=react,html,css&theme=dark&perline=3" />
+      </a>
+    </td>
+    <td align="center" width="200">
+      <h4>⚙️ Backend</h4>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=flask,nodejs&theme=dark&perline=2" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200">
+      <h4>🗄️ Database</h4>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=mysql,firebase&theme=dark&perline=2" />
+      </a>
+    </td>
+    <td align="center" width="200">
+      <h4>🔧 DevOps & Tools</h4>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark&perline=4" />
+      </a>
+    </td>
+    <td align="center" width="200">
+      <h4>☁️ Cloud</h4>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=netlify,vercel&theme=dark&perline=2" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br>
 
@@ -135,3 +131,20 @@ Hey! I'm Iyad – a <strong>Full-Stack Developer</strong>, <strong>AI/ML Develop
 
 <div align="center">
   
+\`7F"If you don't like something change it. 
+If you can't change it, change your attitude about it. 
+Don't complain." 
+                                    – Maya Angelou
+\`7F
+
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=100&section=footer" />
+</div>
+
+<div align="center">
+  <i>⭐ From <a href="https://github.com/perfectking321">perfectking321</a> | Happy Coding! 👨‍💻</i>
+</div>
