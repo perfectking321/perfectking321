@@ -20,9 +20,6 @@
 <h1 align="center">About Me</h1>
 <p align="center">
 Hey! I'm Iyad – a <strong>Full-Stack Developer</strong>, <strong>AI/ML Developer</strong>, and <strong>Problem Solver</strong> who loves turning complex challenges into elegant solutions.<br>
-🐧 <strong>Arch Linux Power-User</strong> | Always exploring new technologies and building cool stuff!
-</p>
-
 <br>
 
 <h1 align="center"> Stats</h1>
@@ -99,7 +96,6 @@ Hey! I'm Iyad – a <strong>Full-Stack Developer</strong>, <strong>AI/ML Develop
   </tr>
 </table>
 
-
 <br>
 
 <h3 align="center">✍️ Quote of the Day</h3>
@@ -113,7 +109,6 @@ Don't complain."
 
 </div>
 
-<br>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=100&section=footer" />
