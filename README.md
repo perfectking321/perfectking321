@@ -17,7 +17,7 @@
 
 <br>
 
-<h3 align="center">🚀 About Me</h3>
+<h1 align="center">About Me</h1>
 <p align="center">
 Hey! I'm Iyad – a <strong>Full-Stack Developer</strong>, <strong>AI/ML Developer</strong>, and <strong>Problem Solver</strong> who loves turning complex challenges into elegant solutions.<br>
 🐧 <strong>Arch Linux Power-User</strong> | Always exploring new technologies and building cool stuff!
@@ -25,24 +25,32 @@ Hey! I'm Iyad – a <strong>Full-Stack Developer</strong>, <strong>AI/ML Develop
 
 <br>
 
-## 📊 Stats
+<h1 align="center"> Stats</h1>
 
-### GitHub Analytics
+<h3 align="center"> GitHub Analytics </h3>
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=perfectking321&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" alt="GitHub Stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=perfectking321&layout=compact&langs_count=8&theme=material-palenight&hide_border=true&bg_color=0d1117" alt="Top Languages"/>
 </div>
+
+
+<h3 align="center"> GitHub Trophies </h3>
+<div align="center">
+  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=perfectking321&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophy"/>
+</div>
+
+<br>
 
 <br>
 
 <table align="center">
   <tr>
     <td align="center">
-      <h3>🔥 GitHub Streak</h3>
+      <h3>GitHub Streak</h3>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=perfectking321&theme=material-palenight&hide_border=true&background=0d1117&ring=a855f7&fire=a855f7&currStreakLabel=a855f7" alt="GitHub Streak"/>
     </td>
     <td align="center">
-      <h3>💻 LeetCode Stats</h3>
+      <h3>LeetCode Stats</h3>
       <img src="https://leetcard.jacoblin.cool/IYAD_?theme=dark&font=Ubuntu&ext=contest" alt="LeetCode Stats"/>
     </td>
   </tr>
@@ -50,14 +58,8 @@ Hey! I'm Iyad – a <strong>Full-Stack Developer</strong>, <strong>AI/ML Develop
 
 <br>
 
-### 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=perfectking321&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophy"/>
-</div>
 
-<br>
-
-### 📈 Contribution Graph
+<h3 align="center">Contribution Graph </h3>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=perfectking321&custom_title=Contribution%20Graph&bg_color=0d1117&color=a855f7&line=a855f7&point=ffffff&area=true&hide_border=true&theme=material-palenight" alt="Contribution Graph"/>
 </div>
@@ -66,50 +68,37 @@ Hey! I'm Iyad – a <strong>Full-Stack Developer</strong>, <strong>AI/ML Develop
 
 <h3 align="center">🛠️ Tech Stack</h3>
 
-<table align="center">
+<table align="center" width="100%" cellpadding="15">
   <tr>
-    <td align="center" width="200">
-      <h4>💻 Languages</h4>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js&theme=dark&perline=5" />
-      </a>
+    <td align="center" width="33%">
+      <strong>💻 Languages</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js&theme=dark&perline=5&size=60" />
     </td>
-    <td align="center" width="200">
-      <h4>🎨 Frontend</h4>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=react,html,css&theme=dark&perline=3" />
-      </a>
+    <td align="center" width="33%">
+      <strong>🎨 Frontend</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=react,html,css&theme=dark&perline=3&size=60" />
     </td>
-    <td align="center" width="200">
-      <h4>⚙️ Backend</h4>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=flask,nodejs&theme=dark&perline=2" />
-      </a>
+    <td align="center" width="33%">
+      <strong>⚙️ Backend</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=flask,nodejs&theme=dark&perline=2&size=60" />
     </td>
   </tr>
   <tr>
-    <td align="center" width="200">
-      <h4>🗄️ Database</h4>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=mysql,firebase&theme=dark&perline=2" />
-      </a>
+    <td align="center" width="33%">
+      <strong>🗄️ Database</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=mysql,firebase&theme=dark&perline=2&size=60" />
     </td>
-    <td align="center" width="200">
-      <h4>🔧 DevOps & Tools</h4>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark&perline=4" />
-      </a>
+    <td align="center" width="33%">
+      <strong>🔧 DevOps & Tools</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark&perline=4&size=60" />
     </td>
-    <td align="center" width="200">
-      <h4>☁️ Cloud</h4>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=netlify,vercel&theme=dark&perline=2" />
-      </a>
+    <td align="center" width="33%">
+      <strong>☁️ Cloud</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=netlify,vercel&theme=dark&perline=2&size=60" />
     </td>
   </tr>
 </table>
 
-<br>
 
 <br>
 
