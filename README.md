@@ -111,31 +111,16 @@ Hey! I'm Iyad – a <strong>Full-Stack Developer</strong>, <strong>AI/ML Develop
 
 <br>
 
-## 📫 Let's Connect!
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/iyad-ahmed-0b7791327/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/perfectkings321">
-    <img src="https://img.shields.io/badge/Twitter-Follow_me-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://www.instagram.com/rayyaniyad/">
-    <img src="https://img.shields.io/badge/Instagram-Follow_me-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</div>
-
 <br>
 
 <h3 align="center">✍️ Quote of the Day</h3>
 
 <div align="center">
   
-\`7F"If you don't like something change it. 
+"If you don't like something change it. 
 If you can't change it, change your attitude about it. 
 Don't complain." 
                                     – Maya Angelou
-\`7F
 
 </div>
 
