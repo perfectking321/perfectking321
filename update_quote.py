@@ -2,12 +2,18 @@ import requests
 import re
 
 # Fetch a random quote from ZenQuotes API
-response = requests.get("https://zenquotes.io/api/random")
-if response.status_code == 200:
-    quote_data = response.json()
-    quote = f"“{quote_data[0]['q']}” – {quote_data[0]['a']}"
-else:
-    quote = "“Keep pushing forward, no matter what!” – Unknown"
+try:
+    response = requests.get("https://zenquotes.io/api/random", timeout=10)
+    if response.status_code == 200:
+        quote_data = response.json()
+        quote_text = quote_data[0]["q"]
+        quote_author = quote_data[0]["a"]
+        quote = f'"{quote_text}" – {quote_author}'
+    else:
+        quote = '"Keep pushing forward, no matter what!" – Unknown'
+except (requests.exceptions.RequestException, requests.exceptions.Timeout) as e:
+    print(f"Failed to fetch quote from API: {e}")
+    quote = '"Keep pushing forward, no matter what!" – Unknown'
 
 # Read the current README file
 with open("README.md", "r", encoding="utf-8") as file:
@@ -24,3 +30,5 @@ updated_content = re.sub(
 # Write the updated content back to the README file
 with open("README.md", "w", encoding="utf-8") as file:
     file.write(updated_content)
+
+print("Quote updated successfully!")
