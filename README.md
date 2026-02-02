@@ -93,10 +93,9 @@ Hey! I'm Iyad – a <strong>Full-Stack Developer</strong>, <strong>AI/ML Develop
 
 <div align="center">
   
-"If you don't like something change it. 
-If you can't change it, change your attitude about it. 
-Don't complain." 
-                                    – Maya Angelou
+<!--STARTS_HERE_QUOTE_README-->
+"Keep pushing forward, no matter what!" – Unknown
+<!--ENDS_HERE_QUOTE_README-->
 
 </div>
 
