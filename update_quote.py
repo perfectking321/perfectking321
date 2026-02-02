@@ -6,7 +6,10 @@ try:
     response = requests.get("https://zenquotes.io/api/random", timeout=10)
     if response.status_code == 200:
         quote_data = response.json()
-        quote = f'"{quote_data[0]["q"]}" – {quote_data[0]["a"]}'
+        # Escape any quotes in the text to prevent formatting issues
+        quote_text = quote_data[0]["q"].replace('"', '\\"')
+        quote_author = quote_data[0]["a"]
+        quote = f'"{quote_text}" – {quote_author}'
     else:
         quote = '"Keep pushing forward, no matter what!" – Unknown'
 except Exception as e:
