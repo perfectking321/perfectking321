@@ -1,13 +1,22 @@
 import requests
 import re
 
+# Constants
+FALLBACK_QUOTE = '"Keep pushing forward, no matter what!"'
+FALLBACK_AUTHOR = "Unknown"
+QUOTE_INDENT = "\n" + " " * 36 + "– "
+
 # Fetch a random quote from ZenQuotes API
-response = requests.get("https://zenquotes.io/api/random")
-if response.status_code == 200:
-    quote_data = response.json()
-    quote = f"“{quote_data[0]['q']}” – {quote_data[0]['a']}"
-else:
-    quote = "“Keep pushing forward, no matter what!” – Unknown"
+try:
+    response = requests.get("https://zenquotes.io/api/random", timeout=10)
+    if response.status_code == 200:
+        quote_data = response.json()
+        quote = f'{quote_data[0]["q"]}{QUOTE_INDENT}{quote_data[0]["a"]}'
+    else:
+        quote = f'{FALLBACK_QUOTE}{QUOTE_INDENT}{FALLBACK_AUTHOR}'
+except Exception:
+    # Fallback quote if API fails
+    quote = f'{FALLBACK_QUOTE}{QUOTE_INDENT}{FALLBACK_AUTHOR}'
 
 # Read the current README file
 with open("README.md", "r", encoding="utf-8") as file:
