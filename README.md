@@ -25,8 +25,8 @@ Hey! I'm Iyad – a <strong>Full-Stack Developer</strong>, <strong>AI/ML Develop
 
 <h3 align="center"> GitHub Analytics </h3>
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=perfectking321&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=perfectking321&layout=compact&langs_count=8&theme=material-palenight&hide_border=true&bg_color=0d1117" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=perfectking321&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=perfectking321&layout=compact&langs_count=8&theme=material-palenight&hide_border=true&bg_color=0d1117" alt="Top Languages"/>
 </div>
 
 
@@ -93,10 +93,10 @@ Hey! I'm Iyad – a <strong>Full-Stack Developer</strong>, <strong>AI/ML Develop
 
 <div align="center">
   
-"If you don't like something change it. 
-If you can't change it, change your attitude about it. 
-Don't complain." 
-                                    – Maya Angelou
+<!--STARTS_HERE_QUOTE_README-->
+"Keep pushing forward, no matter what!" 
+                                    – Unknown
+<!--ENDS_HERE_QUOTE_README-->
 
 </div>
 

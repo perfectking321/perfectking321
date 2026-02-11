@@ -2,12 +2,16 @@ import requests
 import re
 
 # Fetch a random quote from ZenQuotes API
-response = requests.get("https://zenquotes.io/api/random")
-if response.status_code == 200:
-    quote_data = response.json()
-    quote = f"“{quote_data[0]['q']}” – {quote_data[0]['a']}"
-else:
-    quote = "“Keep pushing forward, no matter what!” – Unknown"
+try:
+    response = requests.get("https://zenquotes.io/api/random", timeout=10)
+    if response.status_code == 200:
+        quote_data = response.json()
+        quote = f'"{quote_data[0]["q"]}" \n                                    – {quote_data[0]["a"]}'
+    else:
+        quote = '"Keep pushing forward, no matter what!" \n                                    – Unknown'
+except Exception as e:
+    # Fallback quote if API fails
+    quote = '"Keep pushing forward, no matter what!" \n                                    – Unknown'
 
 # Read the current README file
 with open("README.md", "r", encoding="utf-8") as file:
