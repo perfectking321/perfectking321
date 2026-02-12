@@ -96,8 +96,8 @@ Hey! I'm Iyad – a <strong>Full-Stack Developer</strong>, <strong>AI/ML Develop
 <div align="center">
   
 <!--STARTS_HERE_QUOTE_README-->
-"Keep pushing forward, no matter what!"
-                                    – Unknown
+There is always risk, so learn to manage risk instead of avoiding it.
+                                    – Robert Kiyosaki
 <!--ENDS_HERE_QUOTE_README-->
 
 </div>
