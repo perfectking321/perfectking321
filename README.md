@@ -96,8 +96,8 @@ Hey! I'm Iyad – a <strong>Full-Stack Developer</strong>, <strong>AI/ML Develop
 <div align="center">
   
 <!--STARTS_HERE_QUOTE_README-->
-Give a girl the right shoes, and she can conquer the world.
-                                    – Bette Midler
+Knowing others is wisdom, knowing yourself is enlightenment.
+                                    – Lao Tzu
 <!--ENDS_HERE_QUOTE_README-->
 
 </div>
