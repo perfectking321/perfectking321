@@ -96,8 +96,8 @@ Hey! I'm Iyad – a <strong>Full-Stack Developer</strong>, <strong>AI/ML Develop
 <div align="center">
   
 <!--STARTS_HERE_QUOTE_README-->
-The quality of your life is the quality of your relationships.
-                                    – Tony Robbins
+Get busy living, or get busy dying.
+                                    – Stephen King
 <!--ENDS_HERE_QUOTE_README-->
 
 </div>
