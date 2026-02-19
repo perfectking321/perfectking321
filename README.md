@@ -96,8 +96,8 @@ Hey! I'm Iyad – a <strong>Full-Stack Developer</strong>, <strong>AI/ML Develop
 <div align="center">
   
 <!--STARTS_HERE_QUOTE_README-->
-Get busy living, or get busy dying.
-                                    – Stephen King
+Decide upon your major definite purpose in life and then organize all your activities around it.
+                                    – Brian Tracy
 <!--ENDS_HERE_QUOTE_README-->
 
 </div>
