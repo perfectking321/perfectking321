@@ -96,8 +96,8 @@ Hey! I'm Iyad – a <strong>Full-Stack Developer</strong>, <strong>AI/ML Develop
 <div align="center">
   
 <!--STARTS_HERE_QUOTE_README-->
-The key to success is action.
-                                    – Brian Tracy
+Believe in yourself! Have faith in your abilities! Without a humble but reasonable confidence in your own powers you cannot be successful or happy.
+                                    – Norman Vincent Peale
 <!--ENDS_HERE_QUOTE_README-->
 
 </div>
