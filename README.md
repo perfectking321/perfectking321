@@ -96,8 +96,8 @@ Hey! I'm Iyad – a <strong>Full-Stack Developer</strong>, <strong>AI/ML Develop
 <div align="center">
   
 <!--STARTS_HERE_QUOTE_README-->
-Believe in yourself! Have faith in your abilities! Without a humble but reasonable confidence in your own powers you cannot be successful or happy.
-                                    – Norman Vincent Peale
+A fear-oriented man is always calculating, planning, arranging, safeguarding. His whole life is lost in this way.
+                                    – Osho
 <!--ENDS_HERE_QUOTE_README-->
 
 </div>
