@@ -96,8 +96,8 @@ Hey! I'm Iyad – a <strong>Full-Stack Developer</strong>, <strong>AI/ML Develop
 <div align="center">
   
 <!--STARTS_HERE_QUOTE_README-->
-There is no medicine like hope, no incentive so great, and no tonic so powerful as expectation of something tomorrow. 
-                                    – Orison Swett Marden
+Many a man has failed because he had his wishbone where his backbone should have been.
+                                    – Ronald Reagan
 <!--ENDS_HERE_QUOTE_README-->
 
 </div>
