@@ -96,7 +96,7 @@ Hey! I'm Iyad – a <strong>Full-Stack Developer</strong>, <strong>AI/ML Develop
 <div align="center">
   
 <!--STARTS_HERE_QUOTE_README-->
-My definition of success is control.
+Adults are just children who earn money.
                                     – Kenneth Branagh
 <!--ENDS_HERE_QUOTE_README-->
 
