@@ -96,8 +96,8 @@ Hey! I'm Iyad – a <strong>Full-Stack Developer</strong>, <strong>AI/ML Develop
 <div align="center">
   
 <!--STARTS_HERE_QUOTE_README-->
-Adults are just children who earn money.
-                                    – Kenneth Branagh
+No matter what happens in life, never lose sight of who you are.
+                                    – Yanni
 <!--ENDS_HERE_QUOTE_README-->
 
 </div>
