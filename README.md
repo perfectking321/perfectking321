@@ -96,8 +96,8 @@ Hey! I'm Iyad – a <strong>Full-Stack Developer</strong>, <strong>AI/ML Develop
 <div align="center">
   
 <!--STARTS_HERE_QUOTE_README-->
-No matter what happens in life, never lose sight of who you are.
-                                    – Yanni
+Loving thoughts and actions are clearly beneficial for our physical and mental health.
+                                    – Dalai Lama
 <!--ENDS_HERE_QUOTE_README-->
 
 </div>
