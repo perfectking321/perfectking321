@@ -96,8 +96,8 @@ Hey! I'm Iyad – a <strong>Full-Stack Developer</strong>, <strong>AI/ML Develop
 <div align="center">
   
 <!--STARTS_HERE_QUOTE_README-->
-Loving thoughts and actions are clearly beneficial for our physical and mental health.
-                                    – Dalai Lama
+Making your mark on the world is hard. If it were easy, everybody would do it.
+                                    – Barack Obama
 <!--ENDS_HERE_QUOTE_README-->
 
 </div>
