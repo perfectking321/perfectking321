@@ -96,8 +96,8 @@ Hey! I'm Iyad – a <strong>Full-Stack Developer</strong>, <strong>AI/ML Develop
 <div align="center">
   
 <!--STARTS_HERE_QUOTE_README-->
-Making your mark on the world is hard. If it were easy, everybody would do it.
-                                    – Barack Obama
+Every failure brings with it the seed of an equivalent success.
+                                    – Napoleon Hill
 <!--ENDS_HERE_QUOTE_README-->
 
 </div>
