@@ -96,8 +96,8 @@ Hey! I'm Iyad – a <strong>Full-Stack Developer</strong>, <strong>AI/ML Develop
 <div align="center">
   
 <!--STARTS_HERE_QUOTE_README-->
-Every failure brings with it the seed of an equivalent success.
-                                    – Napoleon Hill
+Truth will always be truth, regardless of lack of understanding, disbelief or ignorance. 
+                                    – W. Clement Stone
 <!--ENDS_HERE_QUOTE_README-->
 
 </div>
