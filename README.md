@@ -96,8 +96,8 @@ Hey! I'm Iyad – a <strong>Full-Stack Developer</strong>, <strong>AI/ML Develop
 <div align="center">
   
 <!--STARTS_HERE_QUOTE_README-->
-Truth will always be truth, regardless of lack of understanding, disbelief or ignorance. 
-                                    – W. Clement Stone
+Failure is an option here. If things are not failing, you are not innovating enough.
+                                    – Elon Musk
 <!--ENDS_HERE_QUOTE_README-->
 
 </div>
