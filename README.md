@@ -96,8 +96,8 @@ Hey! I'm Iyad – a <strong>Full-Stack Developer</strong>, <strong>AI/ML Develop
 <div align="center">
   
 <!--STARTS_HERE_QUOTE_README-->
-Failure is an option here. If things are not failing, you are not innovating enough.
-                                    – Elon Musk
+Nothing external to you has any power over you.
+                                    – Ralph Waldo Emerson
 <!--ENDS_HERE_QUOTE_README-->
 
 </div>
