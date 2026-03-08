@@ -96,8 +96,8 @@ Hey! I'm Iyad – a <strong>Full-Stack Developer</strong>, <strong>AI/ML Develop
 <div align="center">
   
 <!--STARTS_HERE_QUOTE_README-->
-Nothing external to you has any power over you.
-                                    – Ralph Waldo Emerson
+The road to success is always under construction.
+                                    – Steve Harvey
 <!--ENDS_HERE_QUOTE_README-->
 
 </div>
