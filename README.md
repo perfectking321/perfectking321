@@ -96,8 +96,8 @@ Hey! I'm Iyad – a <strong>Full-Stack Developer</strong>, <strong>AI/ML Develop
 <div align="center">
   
 <!--STARTS_HERE_QUOTE_README-->
-The road to success is always under construction.
-                                    – Steve Harvey
+It doesn't matter where you are coming from. All that matters is where you are going. 
+                                    – Brian Tracy
 <!--ENDS_HERE_QUOTE_README-->
 
 </div>
