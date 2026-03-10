@@ -96,8 +96,8 @@ Hey! I'm Iyad – a <strong>Full-Stack Developer</strong>, <strong>AI/ML Develop
 <div align="center">
   
 <!--STARTS_HERE_QUOTE_README-->
-It doesn't matter where you are coming from. All that matters is where you are going. 
-                                    – Brian Tracy
+People are not disturbed by things, but by the views they take of them.
+                                    – Epictetus
 <!--ENDS_HERE_QUOTE_README-->
 
 </div>
