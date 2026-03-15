@@ -96,8 +96,8 @@ Hey! I'm Iyad – a <strong>Full-Stack Developer</strong>, <strong>AI/ML Develop
 <div align="center">
   
 <!--STARTS_HERE_QUOTE_README-->
-Live your life as an exclamation rather than an explanation.
-                                    – Isaac Newton
+Do not use life to give life to death. Do not use death to bring death to life.
+                                    – Zhuangzi
 <!--ENDS_HERE_QUOTE_README-->
 
 </div>
