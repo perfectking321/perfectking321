@@ -96,8 +96,8 @@ Hey! I'm Iyad – a <strong>Full-Stack Developer</strong>, <strong>AI/ML Develop
 <div align="center">
   
 <!--STARTS_HERE_QUOTE_README-->
-Do not use life to give life to death. Do not use death to bring death to life.
-                                    – Zhuangzi
+In the middle of chaos lies opportunity.  
+                                    – Bruce Lee
 <!--ENDS_HERE_QUOTE_README-->
 
 </div>
