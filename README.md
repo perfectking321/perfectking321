@@ -96,8 +96,8 @@ Hey! I'm Iyad – a <strong>Full-Stack Developer</strong>, <strong>AI/ML Develop
 <div align="center">
   
 <!--STARTS_HERE_QUOTE_README-->
-The farther backward you can look, the farther forward you are likely to see.
-                                    – Winston Churchill
+Help others achieve their dreams and you will achieve yours.
+                                    – Les Brown
 <!--ENDS_HERE_QUOTE_README-->
 
 </div>
