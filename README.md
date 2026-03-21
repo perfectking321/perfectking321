@@ -96,8 +96,8 @@ Hey! I'm Iyad – a <strong>Full-Stack Developer</strong>, <strong>AI/ML Develop
 <div align="center">
   
 <!--STARTS_HERE_QUOTE_README-->
-Walk slowly but never walk backward.
-                                    – Unknown
+Be approximately right rather than exactly wrong.
+                                    – John Tukey
 <!--ENDS_HERE_QUOTE_README-->
 
 </div>
