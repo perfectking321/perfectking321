@@ -96,8 +96,8 @@ Hey! I'm Iyad – a <strong>Full-Stack Developer</strong>, <strong>AI/ML Develop
 <div align="center">
   
 <!--STARTS_HERE_QUOTE_README-->
-You know the more one does the more one can do.
-                                    – Amelia Earhart
+Take interest and even delight in doing the small things well.
+                                    – Jim Rohn
 <!--ENDS_HERE_QUOTE_README-->
 
 </div>
