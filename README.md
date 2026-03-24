@@ -96,8 +96,8 @@ Hey! I'm Iyad – a <strong>Full-Stack Developer</strong>, <strong>AI/ML Develop
 <div align="center">
   
 <!--STARTS_HERE_QUOTE_README-->
-Take interest and even delight in doing the small things well.
-                                    – Jim Rohn
+No amount of regretting can change the past, and no amount of worrying can change the future.
+                                    – Roy T. Bennett
 <!--ENDS_HERE_QUOTE_README-->
 
 </div>
