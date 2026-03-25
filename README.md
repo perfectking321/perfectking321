@@ -96,8 +96,8 @@ Hey! I'm Iyad – a <strong>Full-Stack Developer</strong>, <strong>AI/ML Develop
 <div align="center">
   
 <!--STARTS_HERE_QUOTE_README-->
-No amount of regretting can change the past, and no amount of worrying can change the future.
-                                    – Roy T. Bennett
+Our deeds determine us, as much as we determine our deeds.
+                                    – George Eliot
 <!--ENDS_HERE_QUOTE_README-->
 
 </div>
