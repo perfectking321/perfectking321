@@ -96,8 +96,8 @@ Hey! I'm Iyad – a <strong>Full-Stack Developer</strong>, <strong>AI/ML Develop
 <div align="center">
   
 <!--STARTS_HERE_QUOTE_README-->
-However difficult life may seem, there is always something you can do and succeed at.
-                                    – Stephen Hawking
+The nearer a man comes to a calm mind, the closer he is to strength.
+                                    – Marcus Aurelius
 <!--ENDS_HERE_QUOTE_README-->
 
 </div>
