@@ -96,8 +96,8 @@ Hey! I'm Iyad – a <strong>Full-Stack Developer</strong>, <strong>AI/ML Develop
 <div align="center">
   
 <!--STARTS_HERE_QUOTE_README-->
-There are no ordinary moments.
-                                    – Dan Millman
+A wise person should have money in their head, but not in their heart.
+                                    – Jonathan Swift
 <!--ENDS_HERE_QUOTE_README-->
 
 </div>
