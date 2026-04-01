@@ -96,8 +96,8 @@ Hey! I'm Iyad – a <strong>Full-Stack Developer</strong>, <strong>AI/ML Develop
 <div align="center">
   
 <!--STARTS_HERE_QUOTE_README-->
-Trusting our intuition often saves us from disaster. 
-                                    – Anne Wilson Schaef
+Those who know, do. Those that understand, teach.
+                                    – Aristotle
 <!--ENDS_HERE_QUOTE_README-->
 
 </div>
