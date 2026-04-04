@@ -96,8 +96,8 @@ Hey! I'm Iyad – a <strong>Full-Stack Developer</strong>, <strong>AI/ML Develop
 <div align="center">
   
 <!--STARTS_HERE_QUOTE_README-->
-The past is history. It no longer exists, but you are keeping it alive in your mind through your thoughts.  Let it go. It is not serving you.
-                                    – Sonia Ricotti
+No kind action ever stops with itself. One kind action leads to another. Good example is followed.
+                                    – Amelia Earhart
 <!--ENDS_HERE_QUOTE_README-->
 
 </div>
