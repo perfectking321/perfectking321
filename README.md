@@ -96,8 +96,8 @@ Hey! I'm Iyad – a <strong>Full-Stack Developer</strong>, <strong>AI/ML Develop
 <div align="center">
   
 <!--STARTS_HERE_QUOTE_README-->
-No kind action ever stops with itself. One kind action leads to another. Good example is followed.
-                                    – Amelia Earhart
+You want to live but do you know how to live? You are scared of dying and tell me, is the kind of life you lead really any different from being dead?
+                                    – Seneca
 <!--ENDS_HERE_QUOTE_README-->
 
 </div>
