@@ -96,8 +96,8 @@ Hey! I'm Iyad – a <strong>Full-Stack Developer</strong>, <strong>AI/ML Develop
 <div align="center">
   
 <!--STARTS_HERE_QUOTE_README-->
-"Keep pushing forward, no matter what!"
-                                    – Unknown
+Do not wait for leaders; do it alone, person to person.
+                                    – Mother Teresa
 <!--ENDS_HERE_QUOTE_README-->
 
 </div>
