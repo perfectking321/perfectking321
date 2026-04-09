@@ -96,8 +96,8 @@ Hey! I'm Iyad – a <strong>Full-Stack Developer</strong>, <strong>AI/ML Develop
 <div align="center">
   
 <!--STARTS_HERE_QUOTE_README-->
-Do not wait for leaders; do it alone, person to person.
-                                    – Mother Teresa
+It is our choices that show what we truly are, far more than our abilities.
+                                    – Albus Dumbledore
 <!--ENDS_HERE_QUOTE_README-->
 
 </div>
