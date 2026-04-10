@@ -96,8 +96,8 @@ Hey! I'm Iyad – a <strong>Full-Stack Developer</strong>, <strong>AI/ML Develop
 <div align="center">
   
 <!--STARTS_HERE_QUOTE_README-->
-It is our choices that show what we truly are, far more than our abilities.
-                                    – Albus Dumbledore
+The meaning of life is to find your gift. The purpose of life is to give it away.
+                                    – Pablo Picasso
 <!--ENDS_HERE_QUOTE_README-->
 
 </div>
