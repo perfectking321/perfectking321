@@ -96,8 +96,8 @@ Hey! I'm Iyad – a <strong>Full-Stack Developer</strong>, <strong>AI/ML Develop
 <div align="center">
   
 <!--STARTS_HERE_QUOTE_README-->
-Let us always meet each other with smile, for the smile is the beginning of love.
-                                    – Mother Teresa
+The journey, not the destination matters.
+                                    – T.S. Eliot
 <!--ENDS_HERE_QUOTE_README-->
 
 </div>
