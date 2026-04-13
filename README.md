@@ -96,8 +96,8 @@ Hey! I'm Iyad – a <strong>Full-Stack Developer</strong>, <strong>AI/ML Develop
 <div align="center">
   
 <!--STARTS_HERE_QUOTE_README-->
-The journey, not the destination matters.
-                                    – T.S. Eliot
+It is indeed a radical act of love just to sit down and be quiet for a time by yourself.
+                                    – Jon Kabat-Zinn
 <!--ENDS_HERE_QUOTE_README-->
 
 </div>
