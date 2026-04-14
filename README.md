@@ -96,8 +96,8 @@ Hey! I'm Iyad – a <strong>Full-Stack Developer</strong>, <strong>AI/ML Develop
 <div align="center">
   
 <!--STARTS_HERE_QUOTE_README-->
-It is indeed a radical act of love just to sit down and be quiet for a time by yourself.
-                                    – Jon Kabat-Zinn
+Never feel shame for trying and failing, for he who has never failed is he who has never tried.
+                                    – Og Mandino
 <!--ENDS_HERE_QUOTE_README-->
 
 </div>
