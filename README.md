@@ -96,8 +96,8 @@ Hey! I'm Iyad – a <strong>Full-Stack Developer</strong>, <strong>AI/ML Develop
 <div align="center">
   
 <!--STARTS_HERE_QUOTE_README-->
-Never feel shame for trying and failing, for he who has never failed is he who has never tried.
-                                    – Og Mandino
+Show me a hero, and I'll write you a tragedy.
+                                    – F. Scott Fitzgerald
 <!--ENDS_HERE_QUOTE_README-->
 
 </div>
