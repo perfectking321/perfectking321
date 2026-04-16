@@ -96,8 +96,8 @@ Hey! I'm Iyad – a <strong>Full-Stack Developer</strong>, <strong>AI/ML Develop
 <div align="center">
   
 <!--STARTS_HERE_QUOTE_README-->
-Show me a hero, and I'll write you a tragedy.
-                                    – F. Scott Fitzgerald
+If you truly love Nature, you will find beauty everywhere. 
+                                    – Vincent van Gogh
 <!--ENDS_HERE_QUOTE_README-->
 
 </div>
