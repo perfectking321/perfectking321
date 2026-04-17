@@ -96,8 +96,8 @@ Hey! I'm Iyad – a <strong>Full-Stack Developer</strong>, <strong>AI/ML Develop
 <div align="center">
   
 <!--STARTS_HERE_QUOTE_README-->
-If you truly love Nature, you will find beauty everywhere. 
-                                    – Vincent van Gogh
+Progress comes to those who train and train; reliance on secret techniques will get you nowhere.
+                                    – Morihei Ueshiba
 <!--ENDS_HERE_QUOTE_README-->
 
 </div>
