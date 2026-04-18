@@ -96,8 +96,8 @@ Hey! I'm Iyad – a <strong>Full-Stack Developer</strong>, <strong>AI/ML Develop
 <div align="center">
   
 <!--STARTS_HERE_QUOTE_README-->
-Progress comes to those who train and train; reliance on secret techniques will get you nowhere.
-                                    – Morihei Ueshiba
+To acquire true self power you have to feel beneath no one, be immune to criticism and be fearless.
+                                    – Deepak Chopra
 <!--ENDS_HERE_QUOTE_README-->
 
 </div>
